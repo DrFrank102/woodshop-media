@@ -50,7 +50,7 @@
                         }
                     ]
                 }
-
+                
             ]
         },
         {
@@ -643,23 +643,26 @@
             ]
         }
     ],
-    "test": {
-        "image": "testSwift",
-        "time": "30 minutes",
-        "description": "Gear up and put your Swift knowledge to the test.",
-        "questions": [
-            {
-                "content": "What keyword is used to define a constant in Swift?",
-                "correctIndex": 2,
-                "answers": [
-                    "const",
-                    "var",
-                    "let",
-                    "const var"
-                ]
-            }
-        ]
-    },
+    "test": [
+        {
+            "image": "testSwift",
+            "time": "30 minutes",
+            "description": "Gear up and put your Swift knowledge to the test.",
+            "questions": [
+                {
+                    "content": "What keyword is used to define a constant in Swift?",
+                    "correctIndex": 2,
+                    "answers": [
+                        "const",
+                        "var",
+                        "let",
+                        "const var"
+                    ]
+                }
+                }
+            ]
+        }
+    ],
     "glossary": [
         {
             "term": "Backer Board",
