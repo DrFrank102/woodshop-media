@@ -643,7 +643,7 @@
             ]
         }
     ],
-    "test": [
+    "tests": [
         {
             "image": "testSwift",
             "time": "30 minutes",
@@ -659,8 +659,7 @@
                         "const var"
                     ]
                 }
-                }
-            ]
+             ]
         }
     ],
     "glossary": [
