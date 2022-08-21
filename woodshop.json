@@ -624,6 +624,23 @@
                     ]
                 }
             ]
+        },
+        {
+            "type": "stationary",
+            "name": "Sliding Compound Miter Saw",
+            "image": "sliding compound mitre saw",
+            "pages": [
+                {
+                    "pageHeader": "Overview",
+                    "image": "sliding compound mitre saw large",
+                    "pageText": [
+                        {
+                            "bullet": "false",
+                            "text": "The Sliding Compound Miter Saw is a power tool used to make a quick, accurate cross cuts, miters, or bevels. These saws cut at a set miter angle. Some also can cut at both miter and beveled angle."
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "glossary": [
