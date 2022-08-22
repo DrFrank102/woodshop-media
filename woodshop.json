@@ -342,6 +342,7 @@
             ],
             "questions": [
                 {
+                    "id": 0,
                     "content": "What keyword is used to define a constant in Swift?",
                     "correctIndex": 2,
                     "answers": [
@@ -392,8 +393,21 @@
                         }
                     ]
                 }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "content": "What keyword is used to define a constant in Swift?",
+                    "correctIndex": 2,
+                    "answers": [
+                        "const",
+                        "var",
+                        "let",
+                        "const var"
+                    ]
+                }
             ]
-        },
+       },
         {
             "type": "stationary",
             "name": "Thickness Planer",
@@ -438,6 +452,19 @@
                             "bullet": "false",
                             "text": "Industrial thickness planers are capable of accepting very wide boards (in our case 24”) and removing large amounts of material in a single pass. These machines are driven by powerful motors and are designed to last a long time. "
                         }
+                    ]
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "content": "What keyword is used to define a constant in Swift?",
+                    "correctIndex": 2,
+                    "answers": [
+                        "const",
+                        "var",
+                        "let",
+                        "const var"
                     ]
                 }
             ]
@@ -636,6 +663,19 @@
                         }
                     ]
                 }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "content": "What keyword is used to define a constant in Swift?",
+                    "correctIndex": 2,
+                    "answers": [
+                        "const",
+                        "var",
+                        "let",
+                        "const var"
+                    ]
+                }
             ]
         },
         {
@@ -651,6 +691,19 @@
                             "bullet": "false",
                             "text": "The Sliding Compound Miter Saw is a power tool used to make a quick, accurate cross cuts, miters, or bevels. These saws cut at a set miter angle. Some also can cut at both miter and beveled angle."
                         }
+                    ]
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "content": "What keyword is used to define a constant in Swift?",
+                    "correctIndex": 2,
+                    "answers": [
+                        "const",
+                        "var",
+                        "let",
+                        "const var"
                     ]
                 }
             ]
