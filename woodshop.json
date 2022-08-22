@@ -344,7 +344,7 @@
                 {
                     "id": 0,
                     "content": "What is the maximum width board ",
-                    "correctIndex": 3,
+                    "correctIndex": 2,
                     "answers": [
                         "12 inches",
                         "18 inches",
@@ -355,7 +355,7 @@
                 {
                     "id": 1,
                     "content": "How should the cut be done",
-                    "correctIndex": 4,
+                    "correctIndex": 3,
                     "answers": [
                         "slowly all the way",
                         "fast except when cutting through knots",
