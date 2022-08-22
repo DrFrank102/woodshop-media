@@ -343,17 +343,28 @@
             "questions": [
                 {
                     "id": 0,
-                    "content": "What keyword is used to define a constant in Swift?",
-                    "correctIndex": 2,
+                    "content": "What is the maximum width board ",
+                    "correctIndex": 3,
                     "answers": [
-                        "const",
-                        "var",
-                        "let",
-                        "const var"
+                        "12 inches",
+                        "18 inches",
+                        "24 inches",
+                        "36 inches"
+                    ]
+                },
+                {
+                    "id": 1,
+                    "content": "How should the cut be done",
+                    "correctIndex": 4,
+                    "answers": [
+                        "slowly all the way",
+                        "fast except when cutting through knots",
+                        "any speed",
+                        "constant steady medium speed"
                     ]
                 }
+
             ]
-            
         },
         {
             "type": "stationary",
@@ -393,21 +404,8 @@
                         }
                     ]
                 }
-            ],
-            "questions": [
-                {
-                    "id": 0,
-                    "content": "What keyword is used to define a constant in Swift?",
-                    "correctIndex": 2,
-                    "answers": [
-                        "const",
-                        "var",
-                        "let",
-                        "const var"
-                    ]
-                }
             ]
-       },
+        },
         {
             "type": "stationary",
             "name": "Thickness Planer",
@@ -454,7 +452,7 @@
                         }
                     ]
                 }
-            ],
+            ]
         },
         {
             "type": "stationary",
@@ -650,19 +648,6 @@
                         }
                     ]
                 }
-            ],
-            "questions": [
-                {
-                    "id": 0,
-                    "content": "What keyword is used to define a constant in Swift?",
-                    "correctIndex": 2,
-                    "answers": [
-                        "const",
-                        "var",
-                        "let",
-                        "const var"
-                    ]
-                }
             ]
         },
         {
@@ -678,19 +663,6 @@
                             "bullet": "false",
                             "text": "The Sliding Compound Miter Saw is a power tool used to make a quick, accurate cross cuts, miters, or bevels. These saws cut at a set miter angle. Some also can cut at both miter and beveled angle."
                         }
-                    ]
-                }
-            ],
-            "questions": [
-                {
-                    "id": 0,
-                    "content": "What keyword is used to define a constant in Swift?",
-                    "correctIndex": 2,
-                    "answers": [
-                        "const",
-                        "var",
-                        "let",
-                        "const var"
                     ]
                 }
             ]
