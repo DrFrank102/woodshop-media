@@ -343,12 +343,9 @@
             "questions": [
                 {
                     "id": 0,
-                    "content": "What is the maximum width board ",
-                    "correctIndex": 6,
+                    "content": "What is the maximum width board that can be cut on the WHS Radial Arm Saw",
+                    "correctIndex": 3,
                     "answers": [
-                        "6 inches",
-                        "8 inches",
-                        "10 inches",
                         "12 inches",
                         "18 inches",
                         "24 inches",
