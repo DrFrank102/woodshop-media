@@ -65,6 +65,60 @@
                             "text" :  "Praesent mattis facilisis lorem, sed porttitor lacus convallis quis. Nunc tristique a diam non aliquam. Maecenas tortor arcu, posuere ac orci at, dignissim sagittis erat. Maecenas ut arcu molestie, laoreet felis vel, pretium dui. Praesent tincidunt lacus dignissim, ultricies dui quis, mattis neque. Nunc egestas neque at est suscipit vestibulum. Donec non eros sit amet metus ultrices ultricies eu ac odio. Phasellus odio tortor, molestie at laoreet ac, imperdiet eu neque. Praesent convallis est ipsum, vel malesuada libero tempus id. Pellentesque quis mollis mi. Phasellus efficitur fermentum lacus. Nam ornare, ligula quis sagittis ultrices, lectus purus posuere nunc, ut tempor ligula dolor porttitor sem.\n\nSuspendisse sodales vulputate ligula, non consectetur magna elementum et. Cras laoreet eget massa sit amet dictum. Curabitur interdum ullamcorper ligula ac congue. Suspendisse posuere orci eu leo ultrices euismod. Nullam in euismod nulla, non pharetra arcu. Praesent cursus ipsum a justo malesuada ultricies. In libero lectus, tempor vulputate purus sit amet, hendrerit consequat velit. Etiam porta tincidunt nibh. Curabitur ornare condimentum mollis. Nam mi leo, vehicula sed mollis dictum, venenatis vitae diam. Sed congue, ligula eget porta porta, lacus enim maximus tortor, sed porttitor orci lectus aliquet enim. Curabitur blandit, eros non condimentum cursus, metus urna lobortis tellus, commodo porttitor enim risus at erat."
                         }
                     ]
+                },
+                {
+                    "pageHeader" :  "Step 1",
+                    "image" : "SB1. End Layout",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "pageHeader" :  "Step 2",
+                    "image" : "SB2. Location for (3) Shelf Holes",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "pageHeader" :  "Step 3",
+                    "image" : "SB3. Side View showing Hidden locations",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "pageHeader" :  "Step 4",
+                    "image" : "SB4a. Bench Top (Elongated Hole Layout)",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "pageHeader" :  "Step 4a",
+                    "image" : "SB4b. Bench Top (Biscuit Layout)",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "pageHeader" :  "Step 5",
+                    "image" : "SB5. Bench Top (Chamfer Layout)",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "pageHeader" :  "Step 6",
+                    "image" : "SB6. Rail Hole Location",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "pageHeader" :  "Step 7",
+                    "image" : "SB7. Drill Hole location for 2 blocks",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "pageHeader" :  "Step 8",
+                    "image" : "SB8. Bench Top (Bottom Layout)",
+                    "pageText" : [
+                    ]
                 }
             ]
         },
