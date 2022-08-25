@@ -361,6 +361,15 @@
                                                 "any speed",
                                                 "constant steady medium speed"
                     ]
+                },
+                {
+                    "id" : 2,
+                    "content" : "What hand is used to pull the RAS handle when crosscutting,
+                    "correctIndex" : 1,
+                    "answers" : [
+                        "Left",
+                        "Right"
+                    ]
                 }
             ]
         },
