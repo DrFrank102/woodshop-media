@@ -1,111 +1,119 @@
 {
-    "id" :  "1",
+    "id" : "1",
     "projects" : [
         {
-            "ctClass" :  "CT1",
-            "name" :  "Folding Stool",
-            "image" :  "folding stool",
+            "ctClass" : "CT1",
+            "name" : "Folding Stool",
+            "image" : "folding stool",
             "pages" : [
                 {
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "The folding stools has the same features as other stools, except that they can be folded. Because of that, they are very practical; since they are portable and when folded they take very little space. They are suitable for use at home, in the yard, during the camping, fishing and picnic, or for some similar purpose in the nature. Folding stool can also be used as a stand for flowers or as a step stool. Their purpose is not to be comfortable, but rather a quick solution for sitting during dealing with some work."
+                            "bullet" : "false",
+                            "text" : "The folding stools has the same features as other stools, except that they can be folded. Because of that, they are very practical; since they are portable and when folded they take very little space. They are suitable for use at home, in the yard, during the camping, fishing and picnic, or for some similar purpose in the nature. Folding stool can also be used as a stand for flowers or as a step stool. Their purpose is not to be comfortable, but rather a quick solution for sitting during dealing with some work."
                         }
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 1",
-                    "image" :  "folding stool leg layout",
+                    "pageHeader" : "Step 1",
+                    "image" : "folding stool leg layout",
                     "pageText" : [
                         {
-                            "bullet" :  "1.",
-                            "text" :  "Select the following premilled stock\n(1) 40\" board\n(3) 27\" boards"
+                            "bullet" : "1.",
+                            "text" : "Select the following premilled stock\n(1) 40\" board\n(3) 27\" boards"
                         },
                         {
-                            "bullet" :  "2.",
-                            "text" :  "Measure and layout the (4) legs on the 40\" premilled board."
+                            "bullet" : "2.",
+                            "text" : "Measure and layout the (4) legs on the 40\" premilled board."
                         },
                         {
-                            "bullet" :  "3.",
-                            "text" :  "Proceed to the table saw and rip and crosscut the 40\" premilled board according to the layout."
+                            "bullet" : "3.",
+                            "text" : "Proceed to the table saw and rip and crosscut the 40\" premilled board according to the layout."
                         }
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 2",
-                    "image" :  "folding stool leg layout",
+                    "pageHeader" : "Step 2",
+                    "image" : "folding stool leg layout",
                     "pageText" : [
                         {
-                            "bullet" :  "1.",
-                            "text" :  "Select the following premilled stock\n(1) 40\" board\n(3) 27\" boards"
+                            "bullet" : "1.",
+                            "text" : "Select the following premilled stock\n(1) 40\" board\n(3) 27\" boards"
                         },
                         {
-                            "bullet" :  "2.",
-                            "text" :  "Measure and layout the (4) legs on the 40\" premilled board."
+                            "bullet" : "2.",
+                            "text" : "Measure and layout the (4) legs on the 40\" premilled board."
                         },
                         {
-                            "bullet" :  "3.",
-                            "text" :  "Proceed to the table saw and rip and crosscut the 40\" premilled board according to the layout."
+                            "bullet" : "3.",
+                            "text" : "Proceed to the table saw and rip and crosscut the 40\" premilled board according to the layout."
                         }
                     ]
                 }
             ]
         },
         {
-            "ctClass" :  "CT1",
-            "name" :  "Small Bench",
-            "image" :  "small bench",
+            "ctClass" : "CT1",
+            "name" : "Small Bench",
+            "image" : "small bench",
             "pages" : [
                 {
-                    "image" :  "small bench large",
+                    "image" : "small bench large",
                     "pageText" : [
                     ]
                 },
                 {
-                    "image" :  "small bench large",
+                    "pageHeader" : "Step 1",
+                    "image" : "SB1. End Layout",
                     "pageText" : [
                     ]
                 },
                 {
-                    "image" :  "small bench large",
+                    "pageHeader" : "Step 2",
+                    "image" : "SB2. Location for (3) Shelf Holes",
                     "pageText" : [
                     ]
                 },
                 {
-                    "image" :  "small bench large",
+                    "pageHeader" : "Step 3",
+                    "image" : "SB3. Side View showing Hidden locations",
                     "pageText" : [
                     ]
                 },
                 {
-                    "image" :  "small bench large",
+                    "pageHeader" : "Step 4a",
+                    "image" : "SB4a. Bench Top (Elongated Hole Layout)",
                     "pageText" : [
                     ]
                 },
                 {
-                    "image" :  "small bench large",
+                    "pageHeader" : "Step 4b",
+                    "image" : "SB4b. Bench Top (Biscuit Layout)",
                     "pageText" : [
                     ]
                 },
                 {
-                    "image" : "SB6. Rail Hole Location",
+                    "pageHeader" : "Step 5",
+                    "image" : "SB5. Bench Top (Chamfer Layout)",
                     "pageText" : [
                         {
-                            "bullet" :  "2.",
+                            "bullet" : "2.",
                             "text" : "Layout the 3 drill hole locations on each shelf rail."
                         }
                     ]
                 },
                 {
-                    "image" : "SB7. Drill Hole location for 2 blocks",
+                    "pageHeader" : "Step 6",
+                    "image" : "SB6. Rail Hole Location",
                     "pageText" : [
                         {
-                            "bullet" :  "3.",
+                            "bullet" : "3.",
                             "text" : "Layout the 4 drill holes on each block."
                         }
                     ]
                 },
                 {
+                    "pageHeader" : "Step 7",
                     "image" : "SB7. Drill Hole location for 2 blocks",
                     "pageText" : [
                         {
@@ -115,7 +123,8 @@
                     ]
                 },
                 {
-                    "image" : "SB7. Drill Hole location for 2 blocks",
+                    "pageHeader" : "Step 8",
+                    "image" : "SB8. Bench Top (Bottom Layout)",
                     "pageText" : [
                         {
                             "bullet" : "5.",
@@ -124,55 +133,55 @@
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 1",
+                    "pageHeader" : "Step 1",
                     "image" : "SB1. End Layout",
                     "pageText" : [
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 2",
+                    "pageHeader" : "Step 2",
                     "image" : "SB2. Location for (3) Shelf Holes",
                     "pageText" : [
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 3",
+                    "pageHeader" : "Step 3",
                     "image" : "SB3. Side View showing Hidden locations",
                     "pageText" : [
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 4",
+                    "pageHeader" : "Step 4",
                     "image" : "SB4a. Bench Top (Elongated Hole Layout)",
                     "pageText" : [
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 4a",
+                    "pageHeader" : "Step 4a",
                     "image" : "SB4b. Bench Top (Biscuit Layout)",
                     "pageText" : [
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 5",
+                    "pageHeader" : "Step 5",
                     "image" : "SB5. Bench Top (Chamfer Layout)",
                     "pageText" : [
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 6",
+                    "pageHeader" : "Step 6",
                     "image" : "SB6. Rail Hole Location",
                     "pageText" : [
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 7",
+                    "pageHeader" : "Step 7",
                     "image" : "SB7. Drill Hole location for 2 blocks",
                     "pageText" : [
                     ]
                 },
                 {
-                    "pageHeader" :  "Step 8",
+                    "pageHeader" : "Step 8",
                     "image" : "SB8. Bench Top (Bottom Layout)",
                     "pageText" : [
                     ]
@@ -180,80 +189,80 @@
             ]
         },
         {
-            "ctClass" :  "CT1",
-            "name" :  "Coffee Table",
-            "image" :  "coffee table",
+            "ctClass" : "CT1",
+            "name" : "Coffee Table",
+            "image" : "coffee table",
             "pages" : [
                 {
-                    "image" :  "coffee table large",
+                    "image" : "coffee table large",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin auctor aliquet arcu, et ultricies diam mattis et. Nam quis sapien ultrices, semper dui vel, euismod eros. Suspendisse dapibus enim sed commodo luctus. Vestibulum mollis arcu sapien, sed volutpat quam gravida sed. Proin ligula odio, finibus nec leo in, finibus mollis ex. Ut ac vulputate arcu. Pellentesque vitae quam vel felis dapibus interdum quis eu lectus. Morbi varius risus at justo commodo varius. Mauris luctus congue libero in porta. Suspendisse potenti. Praesent nec eros aliquam, laoreet sem a, sagittis odio. Suspendisse vitae risus at neque ultrices dapibus. Etiam non lobortis libero.\n\nPraesent ut justo fermentum, feugiat nisl eget, luctus nunc. In risus sapien, vestibulum eu dui in, blandit molestie erat. Aliquam erat volutpat. Etiam urna felis, pulvinar id tellus vitae, vestibulum commodo quam. Nullam in ante vel quam ultricies vehicula. Mauris vel ullamcorper nisi, non fermentum sapien. Vivamus id pharetra tortor, sit amet consectetur metus. Pellentesque ut mi consectetur, varius risus a, lobortis nisi. Fusce elementum viverra purus, ut tincidunt nisi. Duis vel neque fringilla, eleifend metus quis, faucibus nunc."
+                            "bullet" : "false",
+                            "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin auctor aliquet arcu, et ultricies diam mattis et. Nam quis sapien ultrices, semper dui vel, euismod eros. Suspendisse dapibus enim sed commodo luctus. Vestibulum mollis arcu sapien, sed volutpat quam gravida sed. Proin ligula odio, finibus nec leo in, finibus mollis ex. Ut ac vulputate arcu. Pellentesque vitae quam vel felis dapibus interdum quis eu lectus. Morbi varius risus at justo commodo varius. Mauris luctus congue libero in porta. Suspendisse potenti. Praesent nec eros aliquam, laoreet sem a, sagittis odio. Suspendisse vitae risus at neque ultrices dapibus. Etiam non lobortis libero.\n\nPraesent ut justo fermentum, feugiat nisl eget, luctus nunc. In risus sapien, vestibulum eu dui in, blandit molestie erat. Aliquam erat volutpat. Etiam urna felis, pulvinar id tellus vitae, vestibulum commodo quam. Nullam in ante vel quam ultricies vehicula. Mauris vel ullamcorper nisi, non fermentum sapien. Vivamus id pharetra tortor, sit amet consectetur metus. Pellentesque ut mi consectetur, varius risus a, lobortis nisi. Fusce elementum viverra purus, ut tincidunt nisi. Duis vel neque fringilla, eleifend metus quis, faucibus nunc."
                         }
                     ]
                 }
             ]
         },
         {
-            "ctClass" :  "CT1",
-            "name" :  "End Table",
-            "image" :  "end table",
+            "ctClass" : "CT1",
+            "name" : "End Table",
+            "image" : "end table",
             "pages" : [
                 {
-                    "image" :  "end table large",
+                    "image" : "end table large",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "Morbi congue facilisis sodales. Cras nec magna at quam accumsan volutpat non sit amet tellus. Praesent auctor ac ante id ultricies. Aenean odio sem, tincidunt ut porttitor ac, sagittis id ipsum. Integer tincidunt felis a urna commodo imperdiet. Vivamus erat nibh, convallis at egestas et, imperdiet suscipit sapien. Nullam aliquet convallis neque, ac molestie nisi viverra ut. Nulla facilisi. Nullam pulvinar arcu id elementum pellentesque.\n\nIn hac habitasse platea dictumst. Quisque dapibus velit non nisi gravida blandit. Phasellus dui tortor, fringilla nec posuere at, aliquam sed mi. Donec cursus ornare diam, vitae sodales risus ultricies vel. Nulla et sapien aliquet ligula dapibus vulputate. Nunc lobortis libero vel metus vestibulum porta. Duis efficitur finibus erat nec semper. Cras nec dignissim lectus. Vivamus dignissim at erat laoreet blandit. Praesent porttitor fringilla turpis quis iaculis. Maecenas lorem diam, imperdiet sed mollis eget, suscipit id massa. Curabitur porttitor odio sed mauris fringilla dictum. Cras rhoncus enim velit, et placerat mi finibus in. Nullam sollicitudin, nisi ut iaculis porttitor, velit lectus commodo mauris, porta rutrum arcu magna aliquet lorem. Nam quis lectus ac odio tincidunt efficitur."
+                            "bullet" : "false",
+                            "text" : "Morbi congue facilisis sodales. Cras nec magna at quam accumsan volutpat non sit amet tellus. Praesent auctor ac ante id ultricies. Aenean odio sem, tincidunt ut porttitor ac, sagittis id ipsum. Integer tincidunt felis a urna commodo imperdiet. Vivamus erat nibh, convallis at egestas et, imperdiet suscipit sapien. Nullam aliquet convallis neque, ac molestie nisi viverra ut. Nulla facilisi. Nullam pulvinar arcu id elementum pellentesque.\n\nIn hac habitasse platea dictumst. Quisque dapibus velit non nisi gravida blandit. Phasellus dui tortor, fringilla nec posuere at, aliquam sed mi. Donec cursus ornare diam, vitae sodales risus ultricies vel. Nulla et sapien aliquet ligula dapibus vulputate. Nunc lobortis libero vel metus vestibulum porta. Duis efficitur finibus erat nec semper. Cras nec dignissim lectus. Vivamus dignissim at erat laoreet blandit. Praesent porttitor fringilla turpis quis iaculis. Maecenas lorem diam, imperdiet sed mollis eget, suscipit id massa. Curabitur porttitor odio sed mauris fringilla dictum. Cras rhoncus enim velit, et placerat mi finibus in. Nullam sollicitudin, nisi ut iaculis porttitor, velit lectus commodo mauris, porta rutrum arcu magna aliquet lorem. Nam quis lectus ac odio tincidunt efficitur."
                         }
                     ]
                 }
             ]
         },
         {
-            "ctClass" :  "CT2",
-            "name" :  "Adirondack Chair",
-            "image" :  "adirondack chair",
+            "ctClass" : "CT2",
+            "name" : "Adirondack Chair",
+            "image" : "adirondack chair",
             "pages" : [
                 {
-                    "image" :  "adirondack chair large",
+                    "image" : "adirondack chair large",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "Aenean laoreet vel sapien vel laoreet. Pellentesque elit odio, faucibus convallis efficitur a, bibendum a erat. Proin et lorem risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean at odio tortor. Vestibulum vitae imperdiet lectus, vel posuere ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\n\n Morbi pharetra, mi nec vehicula sollicitudin, ante tellus feugiat erat, nec eleifend dui nisl non nunc. Quisque lacinia sollicitudin pellentesque. Donec id est sed justo commodo tempor eu et leo. Sed feugiat quam nec mauris rhoncus sagittis. Suspendisse posuere lacus vitae arcu tincidunt, quis rhoncus tellus scelerisque. Cras mattis fermentum risus, eget volutpat massa ullamcorper ut. Sed pharetra iaculis dignissim. Quisque ullamcorper pretium urna, at sagittis felis luctus nec. Fusce venenatis tortor ut leo dapibus rhoncus vitae ac est. Nunc felis dui, feugiat suscipit mollis eu, tempus ut turpis. Ut ligula eros, rutrum sed felis vel, malesuada consectetur justo. Suspendisse non nunc augue. Proin non porttitor neque, at convallis nibh."
+                            "bullet" : "false",
+                            "text" : "Aenean laoreet vel sapien vel laoreet. Pellentesque elit odio, faucibus convallis efficitur a, bibendum a erat. Proin et lorem risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean at odio tortor. Vestibulum vitae imperdiet lectus, vel posuere ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\n\n Morbi pharetra, mi nec vehicula sollicitudin, ante tellus feugiat erat, nec eleifend dui nisl non nunc. Quisque lacinia sollicitudin pellentesque. Donec id est sed justo commodo tempor eu et leo. Sed feugiat quam nec mauris rhoncus sagittis. Suspendisse posuere lacus vitae arcu tincidunt, quis rhoncus tellus scelerisque. Cras mattis fermentum risus, eget volutpat massa ullamcorper ut. Sed pharetra iaculis dignissim. Quisque ullamcorper pretium urna, at sagittis felis luctus nec. Fusce venenatis tortor ut leo dapibus rhoncus vitae ac est. Nunc felis dui, feugiat suscipit mollis eu, tempus ut turpis. Ut ligula eros, rutrum sed felis vel, malesuada consectetur justo. Suspendisse non nunc augue. Proin non porttitor neque, at convallis nibh."
                         }
                     ]
                 }
             ]
         },
         {
-            "ctClass" :  "CT2",
-            "name" :  "Mission Night Stand",
-            "image" :  "mission night stand",
+            "ctClass" : "CT2",
+            "name" : "Mission Night Stand",
+            "image" : "mission night stand",
             "pages" : [
                 {
-                    "image" :  "mission night stand large",
+                    "image" : "mission night stand large",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "Morbi congue facilisis sodales. Cras nec magna at quam accumsan volutpat non sit amet tellus. Praesent auctor ac ante id ultricies. Aenean odio sem, tincidunt ut porttitor ac, sagittis id ipsum. Integer tincidunt felis a urna commodo imperdiet. Vivamus erat nibh, convallis at egestas et, imperdiet suscipit sapien. Nullam aliquet convallis neque, ac molestie nisi viverra ut. Nulla facilisi. Nullam pulvinar arcu id elementum pellentesque.\n\nIn hac habitasse platea dictumst. Quisque dapibus velit non nisi gravida blandit. Phasellus dui tortor, fringilla nec posuere at, aliquam sed mi. Donec cursus ornare diam, vitae sodales risus ultricies vel. Nulla et sapien aliquet ligula dapibus vulputate. Nunc lobortis libero vel metus vestibulum porta. Duis efficitur finibus erat nec semper. Cras nec dignissim lectus. Vivamus dignissim at erat laoreet blandit. Praesent porttitor fringilla turpis quis iaculis. Maecenas lorem diam, imperdiet sed mollis eget, suscipit id massa. Curabitur porttitor odio sed mauris fringilla dictum. Cras rhoncus enim velit, et placerat mi finibus in. Nullam sollicitudin, nisi ut iaculis porttitor, velit lectus commodo mauris, porta rutrum arcu magna aliquet lorem. Nam quis lectus ac odio tincidunt efficitur."
+                            "bullet" : "false",
+                            "text" : "Morbi congue facilisis sodales. Cras nec magna at quam accumsan volutpat non sit amet tellus. Praesent auctor ac ante id ultricies. Aenean odio sem, tincidunt ut porttitor ac, sagittis id ipsum. Integer tincidunt felis a urna commodo imperdiet. Vivamus erat nibh, convallis at egestas et, imperdiet suscipit sapien. Nullam aliquet convallis neque, ac molestie nisi viverra ut. Nulla facilisi. Nullam pulvinar arcu id elementum pellentesque.\n\nIn hac habitasse platea dictumst. Quisque dapibus velit non nisi gravida blandit. Phasellus dui tortor, fringilla nec posuere at, aliquam sed mi. Donec cursus ornare diam, vitae sodales risus ultricies vel. Nulla et sapien aliquet ligula dapibus vulputate. Nunc lobortis libero vel metus vestibulum porta. Duis efficitur finibus erat nec semper. Cras nec dignissim lectus. Vivamus dignissim at erat laoreet blandit. Praesent porttitor fringilla turpis quis iaculis. Maecenas lorem diam, imperdiet sed mollis eget, suscipit id massa. Curabitur porttitor odio sed mauris fringilla dictum. Cras rhoncus enim velit, et placerat mi finibus in. Nullam sollicitudin, nisi ut iaculis porttitor, velit lectus commodo mauris, porta rutrum arcu magna aliquet lorem. Nam quis lectus ac odio tincidunt efficitur."
                         }
                     ]
                 }
             ]
         },
         {
-            "ctClass" :  "CT2",
-            "name" :  "Independant Project",
-            "image" :  "independant project",
+            "ctClass" : "CT2",
+            "name" : "Independant Project",
+            "image" : "independant project",
             "pages" : [
                 {
-                    "image" :  "independant project large",
+                    "image" : "independant project large",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "Curabitur blandit ex sed efficitur auctor. Suspendisse dui purus, viverra quis commodo eu, commodo ultricies nisi. In hac habitasse platea dictumst. Nam fermentum at lectus non auctor. Quisque molestie congue turpis, ut volutpat mi rhoncus sed. Pellentesque tristique ligula ligula, sed luctus turpis laoreet in. Vivamus eget ultricies velit. Aliquam in egestas turpis, sed ornare libero. Nulla cursus in neque sed tempor. Pellentesque pellentesque dapibus dictum. Nunc cursus ultricies eleifend. Donec ullamcorper molestie sapien, ac interdum turpis lobortis sit amet. Sed ut felis ac risus tempor efficitur.\n\nUt id ex placerat, lacinia justo in, luctus enim. Pellentesque ac nibh ex. Vestibulum iaculis, elit vel pharetra facilisis, elit leo tempus libero, et bibendum arcu arcu non ex. In odio tortor, commodo at egestas nec, fringilla sed diam. Cras vitae eleifend arcu, sit amet placerat odio. Maecenas arcu mi, efficitur vestibulum ultrices ultricies, tincidunt a velit. Mauris varius, ex a volutpat ornare, risus ligula cursus ex, eget dignissim justo dui condimentum felis. Nunc vitae massa in nibh finibus gravida nec in eros. Vivamus varius ante commodo justo hendrerit suscipit. Mauris lacinia facilisis enim, ac hendrerit lorem egestas nec. Nulla ipsum metus, rhoncus vitae velit sit amet, luctus feugiat metus. Aliquam auctor elit lorem, eu sagittis augue rhoncus id. Maecenas id justo vel risus interdum laoreet vitae in ex. Sed eleifend suscipit ligula."
+                            "bullet" : "false",
+                            "text" : "Curabitur blandit ex sed efficitur auctor. Suspendisse dui purus, viverra quis commodo eu, commodo ultricies nisi. In hac habitasse platea dictumst. Nam fermentum at lectus non auctor. Quisque molestie congue turpis, ut volutpat mi rhoncus sed. Pellentesque tristique ligula ligula, sed luctus turpis laoreet in. Vivamus eget ultricies velit. Aliquam in egestas turpis, sed ornare libero. Nulla cursus in neque sed tempor. Pellentesque pellentesque dapibus dictum. Nunc cursus ultricies eleifend. Donec ullamcorper molestie sapien, ac interdum turpis lobortis sit amet. Sed ut felis ac risus tempor efficitur.\n\nUt id ex placerat, lacinia justo in, luctus enim. Pellentesque ac nibh ex. Vestibulum iaculis, elit vel pharetra facilisis, elit leo tempus libero, et bibendum arcu arcu non ex. In odio tortor, commodo at egestas nec, fringilla sed diam. Cras vitae eleifend arcu, sit amet placerat odio. Maecenas arcu mi, efficitur vestibulum ultrices ultricies, tincidunt a velit. Mauris varius, ex a volutpat ornare, risus ligula cursus ex, eget dignissim justo dui condimentum felis. Nunc vitae massa in nibh finibus gravida nec in eros. Vivamus varius ante commodo justo hendrerit suscipit. Mauris lacinia facilisis enim, ac hendrerit lorem egestas nec. Nulla ipsum metus, rhoncus vitae velit sit amet, luctus feugiat metus. Aliquam auctor elit lorem, eu sagittis augue rhoncus id. Maecenas id justo vel risus interdum laoreet vitae in ex. Sed eleifend suscipit ligula."
                         }
                     ]
                 }
@@ -262,524 +271,514 @@
     ],
     "tools" : [
         {
-            "type" :  "stationary",
-            "name" :  "Radial Arm Saw",
-            "image" :  "radial arm saw",
+            "type" : "stationary",
+            "name" : "Radial Arm Saw",
+            "image" : "radial arm saw",
             "pages" : [
                 {
-                    "pageHeader" :  "Overview",
+                    "pageHeader" : "Overview",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "The radial arm saw is a multi-purpose tool. It not only crosscuts and rips lumber but it can also be configured for use as a jointer, drill, router, sander, and lathe. The saws primary function is crosscutting. It can make a variety of crosscuts including  straight, miter, bevel, dado, and rabbet cuts."
+                            "bullet" : "false",
+                            "text" : "The radial arm saw is a multi-purpose tool. It not only crosscuts and rips lumber but it can also be configured for use as a jointer, drill, router, sander, and lathe. The saws primary function is crosscutting. It can make a variety of crosscuts including  straight, miter, bevel, dado, and rabbet cuts."
                         }
                     ]
                 },
                 {
-                    "pageHeader" :  "Crosscutting",
+                    "pageHeader" : "Crosscutting",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "Crosscutting is the operation used to cut stock to a desired length. The operator holds the stock in place against the fence and pulls the blade across the stock to make the cut. Refer to the following instructions."
+                            "bullet" : "false",
+                            "text" : "Crosscutting is the operation used to cut stock to a desired length. The operator holds the stock in place against the fence and pulls the blade across the stock to make the cut. Refer to the following instructions."
                         },
                         {
-                            "bullet" :  "1.",
-                            "text" :  "Inspect stock for defects and foreign material that may fly loose during cutting."
+                            "bullet" : "1.",
+                            "text" : "Inspect stock for defects and foreign material that may fly loose during cutting."
                         },
                         {
-                            "bullet" :  "2.",
-                            "text" :  "Clear cutting table of any objects that may enter blade travel path."
+                            "bullet" : "2.",
+                            "text" : "Clear cutting table of any objects that may enter blade travel path."
                         },
                         {
-                            "bullet" :  "3.",
-                            "text" :  "Inspect saw to ensure guards are in place and that blade is secure and in good condition."
+                            "bullet" : "3.",
+                            "text" : "Inspect saw to ensure guards are in place and that blade is secure and in good condition."
                         },
                         {
-                            "bullet" :  "4.",
-                            "text" :  "Make sure the saw travels back and forth freely."
+                            "bullet" : "4.",
+                            "text" : "Make sure the saw travels back and forth freely."
                         },
                         {
-                            "bullet" :  "5.",
-                            "text" :  "Set blade height so that it cuts no more than 1/16 inch below surface of cutting table."
+                            "bullet" : "5.",
+                            "text" : "Set blade height so that it cuts no more than 1/16 inch below surface of cutting table."
                         },
                         {
-                            "bullet" :  "6.",
-                            "text" :  "Set miter position indicator to desired angle and secure clamp. You should check the miter angle by cutting and measuring a scrap piece."
+                            "bullet" : "6.",
+                            "text" : "Set miter position indicator to desired angle and secure clamp. You should check the miter angle by cutting and measuring a scrap piece."
                         },
                         {
-                            "bullet" :  "7.",
-                            "text" :  "Measure stock and mark the cutting point."
+                            "bullet" : "7.",
+                            "text" : "Measure stock and mark the cutting point."
                         },
                         {
-                            "bullet" :  "8.",
-                            "text" :  "Make sure saw is in it's rearward position."
+                            "bullet" : "8.",
+                            "text" : "Make sure saw is in it's rearward position."
                         },
                         {
-                            "bullet" :  "9.",
-                            "text" :  "Start saw and let it reach its maximum speed before cutting."
+                            "bullet" : "9.",
+                            "text" : "Start saw and let it reach its maximum speed before cutting."
                         },
                         {
-                            "bullet" :  "10.",
-                            "text" :  "Hold stock firmly against fence making sure that its laying flat on the table."
+                            "bullet" : "10.",
+                            "text" : "Hold stock firmly against fence making sure that its laying flat on the table."
                         },
                         {
-                            "bullet" :  "11.",
-                            "text" :  "Make sure arms are not crossed in front of saw."
+                            "bullet" : "11.",
+                            "text" : "Make sure arms are not crossed in front of saw."
                         },
                         {
-                            "bullet" :  "12.",
-                            "text" :  "Pull the saw forward to make the cut."
+                            "bullet" : "12.",
+                            "text" : "Pull the saw forward to make the cut."
                         },
                         {
-                            "bullet" :  "13.",
-                            "text" :  "Push the saw rearward to its stating position."
+                            "bullet" : "13.",
+                            "text" : "Push the saw rearward to its stating position."
                         },
                         {
-                            "bullet" :  "14.",
-                            "text" :  "Turn off the saw and wait for the blade to stop before removing stock."
+                            "bullet" : "14.",
+                            "text" : "Turn off the saw and wait for the blade to stop before removing stock."
                         }
                     ]
                 },
                 {
-                    "pageHeader" :  "Safety Practices",
+                    "pageHeader" : "Safety Practices",
                     "pageText" : [
                         {
-                            "bullet" :  "o",
-                            "text" :  "Do not operate the saw if you are unfamiliar or uncomfortable with its use."
+                            "bullet" : "o",
+                            "text" : "Do not operate the saw if you are unfamiliar or uncomfortable with its use."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Before cutting, inspect the stock for loose knots, metal, or any other hazards."
+                            "bullet" : "o",
+                            "text" : "Before cutting, inspect the stock for loose knots, metal, or any other hazards."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Clear the cutting table of any objects that could enter the blades path"
+                            "bullet" : "o",
+                            "text" : "Clear the cutting table of any objects that could enter the blades path"
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Keep the floor and area around the saw clean and free from any tripping or slipping hazards."
+                            "bullet" : "o",
+                            "text" : "Keep the floor and area around the saw clean and free from any tripping or slipping hazards."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Inspect the saw blade for defects and insure that it properly secured."
+                            "bullet" : "o",
+                            "text" : "Inspect the saw blade for defects and insure that it properly secured."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Make sure that all locking handles are tight."
+                            "bullet" : "o",
+                            "text" : "Make sure that all locking handles are tight."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Adjust blade to proper cutting depth."
+                            "bullet" : "o",
+                            "text" : "Adjust blade to proper cutting depth."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Slide the saw back and forth to insure it travels freely."
+                            "bullet" : "o",
+                            "text" : "Slide the saw back and forth to insure it travels freely."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Make sure all guards are in place and function properly."
+                            "bullet" : "o",
+                            "text" : "Make sure all guards are in place and function properly."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Always wear approved safety glasses."
+                            "bullet" : "o",
+                            "text" : "Always wear approved safety glasses."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Never work alone."
+                            "bullet" : "o",
+                            "text" : "Never work alone."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Avoid wearing loose clothing or jewelry that might get caught in the saw. "
+                            "bullet" : "o",
+                            "text" : "Avoid wearing loose clothing or jewelry that might get caught in the saw. "
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Make sure power is off and the blade has stopped before making any adjustments."
+                            "bullet" : "o",
+                            "text" : "Make sure power is off and the blade has stopped before making any adjustments."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Unplug the saw before changing or working near blade."
+                            "bullet" : "o",
+                            "text" : "Unplug the saw before changing or working near blade."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Never cut round stock."
+                            "bullet" : "o",
+                            "text" : "Never cut round stock."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Never cut more than one piece of stock at a time (don't stack)."
+                            "bullet" : "o",
+                            "text" : "Never cut more than one piece of stock at a time (don't stack)."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Never cut stock that is shorter than the blade diameter."
+                            "bullet" : "o",
+                            "text" : "Never cut stock that is shorter than the blade diameter."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "After making a cut, return the saw to its rearward position."
+                            "bullet" : "o",
+                            "text" : "After making a cut, return the saw to its rearward position."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Remain focused on cut do not allow yourself to be distracted."
+                            "bullet" : "o",
+                            "text" : "Remain focused on cut do not allow yourself to be distracted."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Hold stock firmly against fence while cutting."
+                            "bullet" : "o",
+                            "text" : "Hold stock firmly against fence while cutting."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Never cut stock that doesn't lay flat on the table."
+                            "bullet" : "o",
+                            "text" : "Never cut stock that doesn't lay flat on the table."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Use table extensions or hold down clamps to control long stock."
+                            "bullet" : "o",
+                            "text" : "Use table extensions or hold down clamps to control long stock."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Keep hands and arms out of the blades path."
+                            "bullet" : "o",
+                            "text" : "Keep hands and arms out of the blades path."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Turn off the saw to clear any materials from near the blade."
+                            "bullet" : "o",
+                            "text" : "Turn off the saw to clear any materials from near the blade."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Change blade if you notice smoking, burning, or wavering during cut."
+                            "bullet" : "o",
+                            "text" : "Change blade if you notice smoking, burning, or wavering during cut."
                         },
                         {
-                            "bullet" :  "o",
-                            "text" :  "Turn off saw if you encounter any unusual problems or sounds."
+                            "bullet" : "o",
+                            "text" : "Turn off saw if you encounter any unusual problems or sounds."
                         }
                     ]
                 }
             ],
             "questions" : [
                 {
-                    "id" : 0,
-                    "content" :  "What is the maximum width board that can be cut on the WHS Radial Arm Saw",
-                    "correctIndex" : 2,
+                    "id" : "0",
+                    "content" : "What is the maximum width board that can be cut on the WHS Radial Arm Saw",
+                    "correctIndex" : "2",
                     "answers" : [
-                                                "12 inches",
-                                                "18 inches",
-                                                "24 inches",
-                                                "36 inches"
                     ]
                 },
                 {
-                    "id" : 1,
-                    "content" :  "How should the cut be done",
-                    "correctIndex" : 3,
+                    "id" : "1",
+                    "content" : "How should the cut be done",
+                    "correctIndex" : "3",
                     "answers" : [
-                                                "slowly all the way",
-                                                "fast except when cutting through knots",
-                                                "any speed",
-                                                "constant steady medium speed"
                     ]
                 },
                 {
-                    "id" : 2,
+                    "id" : "2",
                     "content" : "What hand is used to pull the RAS handle when crosscutting",
-                    "correctIndex" : 1,
+                    "correctIndex" : "1",
                     "answers" : [
-                        "Left",
-                        "Right"
                     ]
                 }
             ]
         },
         {
-            "type" :  "stationary",
-            "name" :  "Jointer",
-            "image" :  "jointer",
+            "type" : "stationary",
+            "name" : "Jointer",
+            "image" : "jointer",
             "pages" : [
                 {
-                    "pageHeader" :  "Overview",
+                    "pageHeader" : "Overview",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "The jointer does one important thing very well. It creates a perfectly flat surfaces, either on the face of a board, or on the edges."
+                            "bullet" : "false",
+                            "text" : "The jointer does one important thing very well. It creates a perfectly flat surfaces, either on the face of a board, or on the edges."
                         },
                         {
-                            "bullet" :  "false",
-                            "text" :  "Jointers are designed to take rough-sawn clean new lumber (Eastern White Pine) and true (straighten/ flatten) one face,two edges at a time."
+                            "bullet" : "false",
+                            "text" : "Jointers are designed to take rough-sawn clean new lumber (Eastern White Pine) and true (straighten/ flatten) one face,two edges at a time."
                         },
                         {
-                            "bullet" :  "false",
-                            "text" :  "The name of this tool derives from its primary function to machine a uniform face  or edge for mating with another workpiece. Jointed edges may now  be joined together to create wider boards."
+                            "bullet" : "false",
+                            "text" : "The name of this tool derives from its primary function to machine a uniform face  or edge for mating with another workpiece. Jointed edges may now  be joined together to create wider boards."
                         },
                         {
-                            "bullet" :  "false",
-                            "text" :  "Machining is performed with a high-speed  (3500 rpm) rotating cutter with  four knives which is called the cutterhead."
+                            "bullet" : "false",
+                            "text" : "Machining is performed with a high-speed  (3500 rpm) rotating cutter with  four knives which is called the cutterhead."
                         },
                         {
-                            "bullet" :  "false",
-                            "text" :  "The stock is placed on the infeed table and pushed, with the aid of  pushblocks, over the cutterhead and onto the outfeed table. The fence is used to help guide the stock. The length of the cutterhead, which defines the size of a jointer(16”), indicates the widest board that can be surfaced."
+                            "bullet" : "false",
+                            "text" : "The stock is placed on the infeed table and pushed, with the aid of  pushblocks, over the cutterhead and onto the outfeed table. The fence is used to help guide the stock. The length of the cutterhead, which defines the size of a jointer(16”), indicates the widest board that can be surfaced."
                         },
                         {
-                            "bullet" :  "false",
-                            "text" :  "When milling rough lumber, the jointer represents the second step in preparing the stock for your project (the first being the Radial Arm Saw). The jointer produces a  smooth flat face and straight edges.  The board then moves to the thickness planer and the tablesaw to be cut to final dimensions. "
+                            "bullet" : "false",
+                            "text" : "When milling rough lumber, the jointer represents the second step in preparing the stock for your project (the first being the Radial Arm Saw). The jointer produces a  smooth flat face and straight edges.  The board then moves to the thickness planer and the tablesaw to be cut to final dimensions. "
                         },
                         {
-                            "bullet" :  "false",
-                            "text" :  "The jointer’s primarily use (and only use at WHS) is for flattening the concave face of a board and straightening and squaring the edges of a board; however, in special circumstances, it may also be used for rabbeting, beveling and tapering."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "type" :  "stationary",
-            "name" :  "Thickness Planer",
-            "image" :  "thickness planer",
-            "pages" : [
-                {
-                    "pageHeader" :  "Overview",
-                    "pageText" : [
-                        {
-                            "bullet" :  "false",
-                            "text" :  "A thickness planer is a woodworking machine to make boards a consistent thickness throughout their length. This is done by flattening the convex side of the board once the jointer has trimmed the concave face."
-                        },
-                        {
-                            "bullet" :  "false",
-                            "text" :  "A thickness planer consists of three main elements"
-                        },
-                        {
-                            "bullet" :  "1.",
-                            "text" :  "Cutterhead"
-                        },
-                        {
-                            "bullet" :  "false",
-                            "text" :  "\tcontains the cutting knives"
-                        },
-                        {
-                            "bullet" :  "2.",
-                            "text" :  "Two sets of rollers "
-                        },
-                        {
-                            "bullet" :  "false",
-                            "text" :  "\tthese draw the board through the machine"
-                        },
-                        {
-                            "bullet" :  "3.",
-                            "text" :  "Infeed Table"
-                        },
-                        {
-                            "bullet" :  "false",
-                            "text" :  "\tthis is adjustable relative to the cutterhead to control the resultant thickness of the board"
-                        },
-                        {
-                            "bullet" :  "false",
-                            "text" :  "Industrial thickness planers are capable of accepting very wide boards (in our case 24”) and removing large amounts of material in a single pass. These machines are driven by powerful motors and are designed to last a long time. "
+                            "bullet" : "false",
+                            "text" : "The jointer’s primarily use (and only use at WHS) is for flattening the concave face of a board and straightening and squaring the edges of a board; however, in special circumstances, it may also be used for rabbeting, beveling and tapering."
                         }
                     ]
                 }
             ]
         },
         {
-            "type" :  "stationary",
-            "name" :  "Table Saw",
-            "image" :  "table saw",
+            "type" : "stationary",
+            "name" : "Thickness Planer",
+            "image" : "thickness planer",
             "pages" : [
                 {
-                    "pageHeader" :  "Components",
+                    "pageHeader" : "Overview",
                     "pageText" : [
                         {
-                            "bullet" :  "1.",
-                            "text" :  "Blade."
+                            "bullet" : "false",
+                            "text" : "A thickness planer is a woodworking machine to make boards a consistent thickness throughout their length. This is done by flattening the convex side of the board once the jointer has trimmed the concave face."
                         },
                         {
-                            "bullet" :  "2.",
-                            "text" :  "Throat Guard."
+                            "bullet" : "false",
+                            "text" : "A thickness planer consists of three main elements"
                         },
                         {
-                            "bullet" :  "3.",
-                            "text" :  "Miter Gauge."
+                            "bullet" : "1.",
+                            "text" : "Cutterhead"
                         },
                         {
-                            "bullet" :  "4.",
-                            "text" :  "Outfeed Table."
+                            "bullet" : "false",
+                            "text" : "\tcontains the cutting knives"
                         },
                         {
-                            "bullet" :  "5.",
-                            "text" :  "Blade Up/Down Handle."
+                            "bullet" : "2.",
+                            "text" : "Two sets of rollers "
                         },
                         {
-                            "bullet" :  "6.",
-                            "text" :  "Power Switch."
+                            "bullet" : "false",
+                            "text" : "\tthese draw the board through the machine"
                         },
                         {
-                            "bullet" :  "7.",
-                            "text" :  "Fence."
+                            "bullet" : "3.",
+                            "text" : "Infeed Table"
                         },
                         {
-                            "bullet" :  "8.",
-                            "text" :  "Fence Lock."
+                            "bullet" : "false",
+                            "text" : "\tthis is adjustable relative to the cutterhead to control the resultant thickness of the board"
                         },
                         {
-                            "bullet" :  "9.",
-                            "text" :  "Miter Gauge Slot."
-                        }
-                    ]
-                },
-                {
-                    "pageHeader" :  "Ripping",
-                    "image" :  "table saw ripping",
-                    "pageText" : [
-                        {
-                            "bullet" :  "1.",
-                            "text" :  "Always use the saw guard, riving knife or splitter (if equipped), and anti-kickback device.  If a splitter is available, make sure it is aligned with the blade before being used."
-                        },
-                        {
-                            "bullet" :  "2.",
-                            "text" :  "Before making cuts, align and lock the rip fence in position.  When possible position the rip fence to the right of the saw blade."
-                        },
-                        {
-                            "bullet" :  "3.",
-                            "text" :  "If the work piece does not have  a straight edge, fasten an auxiliary board to the top of the work piece to provide a straight edge for the first cut."
-                        },
-                        {
-                            "bullet" :  "4.",
-                            "text" :  "Set the rip fence for desired width of cut using the scale on the front rail or, for more accurate cuts, measure the distance between the blade teeth and the fence."
-                        },
-                        {
-                            "bullet" :  "5.",
-                            "text" :  "Use the left hand to hold the board against the fence and table."
-                        },
-                        {
-                            "bullet" :  "6.",
-                            "text" :  "Use the right hand to push the material through the saw."
-                        },
-                        {
-                            "bullet" :  "7.",
-                            "text" :  "When the stock is less than 4 inches in width, use a pushstick to push the trailing end through the saw."
-                        },
-                        {
-                            "bullet" :  "8.",
-                            "text" :  "Never allow the hands to come closer than 12 inches to the saw blade."
-                        },
-                        {
-                            "bullet" :  "9.",
-                            "text" :  "Position the right hand so it is NOT in direct line with the saw blade."
-                        },
-                        {
-                            "bullet" :  "10.",
-                            "text" :  "Remove the hand holding the stock down as it approaches the saw blade guard.  auxiliary fence."
-                        },
-                        {
-                            "bullet" :  "11.",
-                            "text" :  "Always push the work piece completely past the blade at the end of a cut to reduce the possibility of kickback."
-                        },
-                        {
-                            "bullet" :  "12.",
-                            "text" :  "When ripping long boards use a support at the front of the table or an off-bearer to support the cut stock  as it comes through the saw.  The off-bearer never pulls the stock, he/she only supports and move with the stock as it comes through the saw."
-                        },
-                        {
-                            "bullet" :  "13.",
-                            "text" :  "For materials shorter than 12 inches or narrower than 4 inches always use a push stick or push block to push material between the fence and the saw blade."
-                        },
-                        {
-                            "bullet" :  "14.",
-                            "text" :  "Never attempt to set the rip fence when the carriage extends beyond the end of the front rail.Make sure the correct blade is used for ripping cuts.  "
-                        },
-                        {
-                            "bullet" :  "15.",
-                            "text" :  "Make sure the correct blade is used for ripping cuts."
-                        },
-                        {
-                            "bullet" :  "16.",
-                            "text" :  "If the lumber is warped, turn the curved side down when ripping."
-                        }
-                    ]
-                },
-                {
-                    "pageHeader" :  "Crosscutting",
-                    "image" :  "table saw crosscutting",
-                    "pageText" : [
-                        {
-                            "bullet" :  "1.",
-                            "text" :  "Make sure the saw guard and splitter are in place when crosscutting."
-                        },
-                        {
-                            "bullet" :  "2.",
-                            "text" :  "Always use the miter gauge when crosscutting.  Be sure the miter head is set at the proper angle for the desired cut and securely clamped."
-                        },
-                        {
-                            "bullet" :  "3.",
-                            "text" :  "Most workers prefer to use the left table slot for the miter gauge when crosscutting."
-                        },
-                        {
-                            "bullet" :  "4.",
-                            "text" :  "Hold the stock against the miter head with the left hand and use the right hand to advance the miter gauge and material through the cut."
-                        },
-                        {
-                            "bullet" :  "5.",
-                            "text" :  "Use the right table slot for making bevel or chamfer cuts.  The right table slot is used for this operation so the blade will tilt away from the operator’s hands and the miter gauge."
-                        },
-                        {
-                            "bullet" :  "6.",
-                            "text" :  "Always hold the material firmly against the miter head to prevent vibration and binding when the cut is made."
-                        },
-                        {
-                            "bullet" :  "7.",
-                            "text" :  "To improve the effectiveness of the miter head, some workers mount an auxiliary extension to the miter head.  This extension should not extend beyond the left edge of the saw table."
-                        },
-                        {
-                            "bullet" :  "8.",
-                            "text" :  "Provide support for any material which extends beyond the edge(s) of the saw table."
-                        },
-                        {
-                            "bullet" :  "9.",
-                            "text" :  "The miter head should be used when making cuts from 90 degrees to 45 degrees.  The miter head should be adjusted relative to the slot in the saw table.  If needed, change the position of the pointer and stops on the miter head gauge to accurately read the degrees for miter cuts."
-                        }
-                    ]
-                },
-                {
-                    "pageHeader" :  "Bevel and Miter Cutting",
-                    "image" :  "table saw bevel cut",
-                    "pageText" : [
-                        {
-                            "bullet" :  "1.",
-                            "text" :  "The saw guard, riving knife/splitter (if available) and anti-kickback device should be in place when making bevel and miter cuts."
-                        },
-                        {
-                            "bullet" :  "2.",
-                            "text" :  "When beveling or making compound miter cuts always use the fence or the miter head on the opposite side from which the blade is tilted.  This will maximize the distance the hands will be from the blade and help avoid binding between the saw blade and the table top."
-                        },
-                        {
-                            "bullet" :  "3.",
-                            "text" :  "Bevel cutting is performed the same as described for ripping; miter cutting is performed the same as described for crosscutting."
-                        },
-                        {
-                            "bullet" :  "4.",
-                            "text" :  "Miter head hold down clamps may be used to hold stock in place for accurate miter cuts."
-                        }
-                    ]
-                },
-                {
-                    "pageHeader" :  "Dadoing",
-                    "image" :  "table saw dado",
-                    "pageText" : [
-                        {
-                            "bullet" :  "1.",
-                            "text" :  "Use a table insert which fits the dado cut being made.  Several wood table inserts, with varying slot widths, should be made and kept on hand for use with the dado blades."
-                        },
-                        {
-                            "bullet" :  "2.",
-                            "text" :  "Hold down blocks should be used for holding down stock while making groove cuts with the dado head."
+                            "bullet" : "false",
+                            "text" : "Industrial thickness planers are capable of accepting very wide boards (in our case 24”) and removing large amounts of material in a single pass. These machines are driven by powerful motors and are designed to last a long time. "
                         }
                     ]
                 }
             ]
         },
         {
-            "type" :  "stationary",
-            "name" :  "Sliding Compound Miter Saw",
-            "image" :  "sliding compound mitre saw",
+            "type" : "stationary",
+            "name" : "Table Saw",
+            "image" : "table saw",
             "pages" : [
                 {
-                    "pageHeader" :  "Overview",
-                    "image" :  "sliding compound mitre saw large",
+                    "pageHeader" : "Components",
                     "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "The Sliding Compound Miter Saw is a power tool used to make a quick, accurate cross cuts, miters, or bevels. These saws cut at a set miter angle. Some also can cut at both miter and beveled angle."
+                            "bullet" : "1.",
+                            "text" : "Blade."
+                        },
+                        {
+                            "bullet" : "2.",
+                            "text" : "Throat Guard."
+                        },
+                        {
+                            "bullet" : "3.",
+                            "text" : "Miter Gauge."
+                        },
+                        {
+                            "bullet" : "4.",
+                            "text" : "Outfeed Table."
+                        },
+                        {
+                            "bullet" : "5.",
+                            "text" : "Blade Up/Down Handle."
+                        },
+                        {
+                            "bullet" : "6.",
+                            "text" : "Power Switch."
+                        },
+                        {
+                            "bullet" : "7.",
+                            "text" : "Fence."
+                        },
+                        {
+                            "bullet" : "8.",
+                            "text" : "Fence Lock."
+                        },
+                        {
+                            "bullet" : "9.",
+                            "text" : "Miter Gauge Slot."
+                        }
+                    ]
+                },
+                {
+                    "pageHeader" : "Ripping",
+                    "image" : "table saw ripping",
+                    "pageText" : [
+                        {
+                            "bullet" : "1.",
+                            "text" : "Always use the saw guard, riving knife or splitter (if equipped), and anti-kickback device.  If a splitter is available, make sure it is aligned with the blade before being used."
+                        },
+                        {
+                            "bullet" : "2.",
+                            "text" : "Before making cuts, align and lock the rip fence in position.  When possible position the rip fence to the right of the saw blade."
+                        },
+                        {
+                            "bullet" : "3.",
+                            "text" : "If the work piece does not have  a straight edge, fasten an auxiliary board to the top of the work piece to provide a straight edge for the first cut."
+                        },
+                        {
+                            "bullet" : "4.",
+                            "text" : "Set the rip fence for desired width of cut using the scale on the front rail or, for more accurate cuts, measure the distance between the blade teeth and the fence."
+                        },
+                        {
+                            "bullet" : "5.",
+                            "text" : "Use the left hand to hold the board against the fence and table."
+                        },
+                        {
+                            "bullet" : "6.",
+                            "text" : "Use the right hand to push the material through the saw."
+                        },
+                        {
+                            "bullet" : "7.",
+                            "text" : "When the stock is less than 4 inches in width, use a pushstick to push the trailing end through the saw."
+                        },
+                        {
+                            "bullet" : "8.",
+                            "text" : "Never allow the hands to come closer than 12 inches to the saw blade."
+                        },
+                        {
+                            "bullet" : "9.",
+                            "text" : "Position the right hand so it is NOT in direct line with the saw blade."
+                        },
+                        {
+                            "bullet" : "10.",
+                            "text" : "Remove the hand holding the stock down as it approaches the saw blade guard.  auxiliary fence."
+                        },
+                        {
+                            "bullet" : "11.",
+                            "text" : "Always push the work piece completely past the blade at the end of a cut to reduce the possibility of kickback."
+                        },
+                        {
+                            "bullet" : "12.",
+                            "text" : "When ripping long boards use a support at the front of the table or an off-bearer to support the cut stock  as it comes through the saw.  The off-bearer never pulls the stock, he/she only supports and move with the stock as it comes through the saw."
+                        },
+                        {
+                            "bullet" : "13.",
+                            "text" : "For materials shorter than 12 inches or narrower than 4 inches always use a push stick or push block to push material between the fence and the saw blade."
+                        },
+                        {
+                            "bullet" : "14.",
+                            "text" : "Never attempt to set the rip fence when the carriage extends beyond the end of the front rail.Make sure the correct blade is used for ripping cuts.  "
+                        },
+                        {
+                            "bullet" : "15.",
+                            "text" : "Make sure the correct blade is used for ripping cuts."
+                        },
+                        {
+                            "bullet" : "16.",
+                            "text" : "If the lumber is warped, turn the curved side down when ripping."
+                        }
+                    ]
+                },
+                {
+                    "pageHeader" : "Crosscutting",
+                    "image" : "table saw crosscutting",
+                    "pageText" : [
+                        {
+                            "bullet" : "1.",
+                            "text" : "Make sure the saw guard and splitter are in place when crosscutting."
+                        },
+                        {
+                            "bullet" : "2.",
+                            "text" : "Always use the miter gauge when crosscutting.  Be sure the miter head is set at the proper angle for the desired cut and securely clamped."
+                        },
+                        {
+                            "bullet" : "3.",
+                            "text" : "Most workers prefer to use the left table slot for the miter gauge when crosscutting."
+                        },
+                        {
+                            "bullet" : "4.",
+                            "text" : "Hold the stock against the miter head with the left hand and use the right hand to advance the miter gauge and material through the cut."
+                        },
+                        {
+                            "bullet" : "5.",
+                            "text" : "Use the right table slot for making bevel or chamfer cuts.  The right table slot is used for this operation so the blade will tilt away from the operator’s hands and the miter gauge."
+                        },
+                        {
+                            "bullet" : "6.",
+                            "text" : "Always hold the material firmly against the miter head to prevent vibration and binding when the cut is made."
+                        },
+                        {
+                            "bullet" : "7.",
+                            "text" : "To improve the effectiveness of the miter head, some workers mount an auxiliary extension to the miter head.  This extension should not extend beyond the left edge of the saw table."
+                        },
+                        {
+                            "bullet" : "8.",
+                            "text" : "Provide support for any material which extends beyond the edge(s) of the saw table."
+                        },
+                        {
+                            "bullet" : "9.",
+                            "text" : "The miter head should be used when making cuts from 90 degrees to 45 degrees.  The miter head should be adjusted relative to the slot in the saw table.  If needed, change the position of the pointer and stops on the miter head gauge to accurately read the degrees for miter cuts."
+                        }
+                    ]
+                },
+                {
+                    "pageHeader" : "Bevel and Miter Cutting",
+                    "image" : "table saw bevel cut",
+                    "pageText" : [
+                        {
+                            "bullet" : "1.",
+                            "text" : "The saw guard, riving knife/splitter (if available) and anti-kickback device should be in place when making bevel and miter cuts."
+                        },
+                        {
+                            "bullet" : "2.",
+                            "text" : "When beveling or making compound miter cuts always use the fence or the miter head on the opposite side from which the blade is tilted.  This will maximize the distance the hands will be from the blade and help avoid binding between the saw blade and the table top."
+                        },
+                        {
+                            "bullet" : "3.",
+                            "text" : "Bevel cutting is performed the same as described for ripping; miter cutting is performed the same as described for crosscutting."
+                        },
+                        {
+                            "bullet" : "4.",
+                            "text" : "Miter head hold down clamps may be used to hold stock in place for accurate miter cuts."
+                        }
+                    ]
+                },
+                {
+                    "pageHeader" : "Dadoing",
+                    "image" : "table saw dado",
+                    "pageText" : [
+                        {
+                            "bullet" : "1.",
+                            "text" : "Use a table insert which fits the dado cut being made.  Several wood table inserts, with varying slot widths, should be made and kept on hand for use with the dado blades."
+                        },
+                        {
+                            "bullet" : "2.",
+                            "text" : "Hold down blocks should be used for holding down stock while making groove cuts with the dado head."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type" : "stationary",
+            "name" : "Sliding Compound Miter Saw",
+            "image" : "sliding compound mitre saw",
+            "pages" : [
+                {
+                    "pageHeader" : "Overview",
+                    "image" : "sliding compound mitre saw large",
+                    "pageText" : [
+                        {
+                            "bullet" : "false",
+                            "text" : "The Sliding Compound Miter Saw is a power tool used to make a quick, accurate cross cuts, miters, or bevels. These saws cut at a set miter angle. Some also can cut at both miter and beveled angle."
                         }
                     ]
                 }
@@ -788,204 +787,204 @@
     ],
     "glossary" : [
         {
-            "term" :  "Backer Board",
-            "meaning" :  "A piece of wood or plywood placed on the back side of a workpiece in order to provide support or minimize tearout"
+            "term" : "Backer Board",
+            "meaning" : "A piece of wood or plywood placed on the back side of a workpiece in order to provide support or minimize tearout"
         },
         {
-            "term" :  "Bevel",
-            "meaning" :  "An angled edge or end, where the entire surface of the edge or end is angled (different from a chamfer)"
+            "term" : "Bevel",
+            "meaning" : "An angled edge or end, where the entire surface of the edge or end is angled (different from a chamfer)"
         },
         {
-            "term" :  "Brad Point Drill Bit",
-            "meaning" :  "A Brad point tip provides accurate positioning for starting the hole. The bit is precision ground for use in furniture making, doweling, cabinetry, and other woodworking applications where an exact hole size is required. Spur cutting edges reduce splintering and ensure a smooth, clean hole"
+            "term" : "Brad Point Drill Bit",
+            "meaning" : "A Brad point tip provides accurate positioning for starting the hole. The bit is precision ground for use in furniture making, doweling, cabinetry, and other woodworking applications where an exact hole size is required. Spur cutting edges reduce splintering and ensure a smooth, clean hole"
         },
         {
-            "term" :  "Burl",
-            "meaning" :  "A burl is a tree growth in which the grain has grown in a deformed manner. It is commonly found in the form of a rounded outgrowth on a tree trunk or branch that is filled with small knots from dormant buds."
+            "term" : "Burl",
+            "meaning" : "A burl is a tree growth in which the grain has grown in a deformed manner. It is commonly found in the form of a rounded outgrowth on a tree trunk or branch that is filled with small knots from dormant buds."
         },
         {
-            "term" :  "Chamfer",
-            "meaning" :  "An angled surface on the edge or end of a board that spans from the edge or end to the face (different from a bevel)."
+            "term" : "Chamfer",
+            "meaning" : "An angled surface on the edge or end of a board that spans from the edge or end to the face (different from a bevel)."
         },
         {
-            "term" :  "Chuck",
-            "meaning" :  "A device (usually on a drill or drill press) used to clamp a drillbit in place, capable of gripping a large range of drillbits or shank sizes and often utilizing a key to operate"
+            "term" : "Chuck",
+            "meaning" : "A device (usually on a drill or drill press) used to clamp a drillbit in place, capable of gripping a large range of drillbits or shank sizes and often utilizing a key to operate"
         },
         {
-            "term" :  "Collet",
-            "meaning" :  "A device (usually on a router) that clamps a router bit in place, sized for a specific bit or shank diameter, e.g. 1/4in or 1/2in, and utilizing two wrenches to operate."
+            "term" : "Collet",
+            "meaning" : "A device (usually on a router) that clamps a router bit in place, sized for a specific bit or shank diameter, e.g. 1/4in or 1/2in, and utilizing two wrenches to operate."
         },
         {
-            "term" :  "Crosscut",
-            "meaning" :  "To cut across the grain."
+            "term" : "Crosscut",
+            "meaning" : "To cut across the grain."
         },
         {
-            "term" :  "Cutterhead",
-            "meaning" :  "A cylindrical block with knives or cutters positioned around its perimeter."
+            "term" : "Cutterhead",
+            "meaning" : "A cylindrical block with knives or cutters positioned around its perimeter."
         },
         {
-            "term" :  "Dado",
-            "meaning" :  "A groove running across the grain."
+            "term" : "Dado",
+            "meaning" : "A groove running across the grain."
         },
         {
-            "term" :  "Dado Head",
-            "meaning" :  "A set of blades stacked side-by-side for use on the table saw, used for making dadoes or grooves"
+            "term" : "Dado Head",
+            "meaning" : "A set of blades stacked side-by-side for use on the table saw, used for making dadoes or grooves"
         },
         {
-            "term" :  "Edge",
-            "meaning" :  "The smaller pair of surfaces (relative to the face) on a board that exhibit long grain."
+            "term" : "Edge",
+            "meaning" : "The smaller pair of surfaces (relative to the face) on a board that exhibit long grain."
         },
         {
-            "term" :  "End",
-            "meaning" :  "The pair of surfaces of a board that exhibits end grain."
+            "term" : "End",
+            "meaning" : "The pair of surfaces of a board that exhibits end grain."
         },
         {
-            "term" :  "End grain",
-            "meaning" :  "Wood fibers that are oriented perpendicular to the surface of a piece of lumber (as seen on the ends of a board)."
+            "term" : "End grain",
+            "meaning" : "Wood fibers that are oriented perpendicular to the surface of a piece of lumber (as seen on the ends of a board)."
         },
         {
-            "term" :  "Face",
-            "meaning" :  "The largest pair of long-grain surfaces of a board."
+            "term" : "Face",
+            "meaning" : "The largest pair of long-grain surfaces of a board."
         },
         {
-            "term" :  "Fence",
-            "meaning" :  "A beam or board used to guide a workpiece past a blade or bit."
+            "term" : "Fence",
+            "meaning" : "A beam or board used to guide a workpiece past a blade or bit."
         },
         {
-            "term" :  "Grain",
-            "meaning" :  "The cylindrical fibers (like soda straws) which make up lumber, oriented along the vertical axis of a tree."
+            "term" : "Grain",
+            "meaning" : "The cylindrical fibers (like soda straws) which make up lumber, oriented along the vertical axis of a tree."
         },
         {
-            "term" :  "Green",
-            "meaning" :  "A term used to describe lumber that has not been dried."
+            "term" : "Green",
+            "meaning" : "A term used to describe lumber that has not been dried."
         },
         {
-            "term" :  "Joint",
-            "meaning" :  "To flatten and smooth the face or edge of a board using the jointer."
+            "term" : "Joint",
+            "meaning" : "To flatten and smooth the face or edge of a board using the jointer."
         },
         {
-            "term" :  "Kerf",
-            "meaning" :  "The slot created by a blade or bit."
+            "term" : "Kerf",
+            "meaning" : "The slot created by a blade or bit."
         },
         {
-            "term" :  "Kickback",
-            "meaning" :  "A dangerous situation in which a workpiece is forcibly ejected from a machine, often at tremendous speed."
+            "term" : "Kickback",
+            "meaning" : "A dangerous situation in which a workpiece is forcibly ejected from a machine, often at tremendous speed."
         },
         {
-            "term" :  "Long grain",
-            "meaning" :  "Wood fibers that are oriented parallel to the surface of a piece of lumber (as seen on the faces and edges of a board)."
+            "term" : "Long grain",
+            "meaning" : "Wood fibers that are oriented parallel to the surface of a piece of lumber (as seen on the faces and edges of a board)."
         },
         {
-            "term" :  "Lumber",
-            "meaning" :  "A solid wood board."
+            "term" : "Lumber",
+            "meaning" : "A solid wood board."
         },
         {
-            "term" :  "Margin of Safety",
-            "meaning" :  "The minimum distance the operator's hands, fingers, or other body parts should be from a cutter, blade, or bit."
+            "term" : "Margin of Safety",
+            "meaning" : "The minimum distance the operator's hands, fingers, or other body parts should be from a cutter, blade, or bit."
         },
         {
-            "term" :  "MDF",
-            "meaning" :  "Medium-density fiberboard; a man-made sheet material made of fine particles glued together to make a smooth-faced, stable product."
+            "term" : "MDF",
+            "meaning" : "Medium-density fiberboard; a man-made sheet material made of fine particles glued together to make a smooth-faced, stable product."
         },
         {
-            "term" :  "Melamine",
-            "meaning" :  "A man-made sheet material made from particle board with a thin layerof plastic on one or both faces, often used for cabinet construction."
+            "term" : "Melamine",
+            "meaning" : "A man-made sheet material made from particle board with a thin layerof plastic on one or both faces, often used for cabinet construction."
         },
         {
-            "term" :  "Mortise",
-            "meaning" :  "A hole or slot with at least two flat sides into which another part is inserted (typically a tenon)."
+            "term" : "Mortise",
+            "meaning" : "A hole or slot with at least two flat sides into which another part is inserted (typically a tenon)."
         },
         {
-            "term" :  "Offcut",
-            "meaning" :  "The part of a piece being cut that is on the far side of a blade and is therefore not typically held or controlled by the operator."
+            "term" : "Offcut",
+            "meaning" : "The part of a piece being cut that is on the far side of a blade and is therefore not typically held or controlled by the operator."
         },
         {
-            "term" :  "Particle board",
-            "meaning" :  "A man-made sheet material made from medium-sized particles glued together to make a moderately smooth-faced, stable product (coarser than MDF)."
+            "term" : "Particle board",
+            "meaning" : "A man-made sheet material made from medium-sized particles glued together to make a moderately smooth-faced, stable product (coarser than MDF)."
         },
         {
-            "term" :  "Plane (v.)",
-            "meaning" :  "To flatten and smooth the face or edge of a board using a plane or planer."
+            "term" : "Plane (v.)",
+            "meaning" : "To flatten and smooth the face or edge of a board using a plane or planer."
         },
         {
-            "term" :  "Plane (n.)",
-            "meaning" :  "A hand tool used to smooth and flatten a surface (also referred to as a hand plane)."
+            "term" : "Plane (n.)",
+            "meaning" : "A hand tool used to smooth and flatten a surface (also referred to as a hand plane)."
         },
         {
-            "term" :  "Planer",
-            "meaning" :  "The stationary machine described in this document used to make the face of a board smooth and parallel to the opposite face."
+            "term" : "Planer",
+            "meaning" : "The stationary machine described in this document used to make the face of a board smooth and parallel to the opposite face."
         },
         {
-            "term" :  "Platen",
-            "meaning" :  "A flat reference surface, typically the surface on which a belt-sander belt runs."
+            "term" : "Platen",
+            "meaning" : "A flat reference surface, typically the surface on which a belt-sander belt runs."
         },
         {
-            "term" :  "Pushblock",
-            "meaning" :  "A safety device with a broad base and handle used to guide a workpiece past a cutter, blade, or bit, thereby keeping the operator's hands at a safe distance."
+            "term" : "Pushblock",
+            "meaning" : "A safety device with a broad base and handle used to guide a workpiece past a cutter, blade, or bit, thereby keeping the operator's hands at a safe distance."
         },
         {
-            "term" :  "Pushpad",
-            "meaning" :  "A safety device with a broad soft base and handle used to guide a workpiece past a cutter, blade, or bit, thereby keeping the operator's hands at a safe distance."
+            "term" : "Pushpad",
+            "meaning" : "A safety device with a broad soft base and handle used to guide a workpiece past a cutter, blade, or bit, thereby keeping the operator's hands at a safe distance."
         },
         {
-            "term" :  "Pushstick",
-            "meaning" :  "A safety device used to guide a workpiece past a cutter, blade, or bit, thereby keeping the operator's hands at a safe distance."
+            "term" : "Pushstick",
+            "meaning" : "A safety device used to guide a workpiece past a cutter, blade, or bit, thereby keeping the operator's hands at a safe distance."
         },
         {
-            "term" :  "Rabbet",
-            "meaning" :  "A stepped surface on the edge or end of a board."
+            "term" : "Rabbet",
+            "meaning" : "A stepped surface on the edge or end of a board."
         },
         {
-            "term" :  "Resaw",
-            "meaning" :  "To cut a piece of wood in order to make it thinner."
+            "term" : "Resaw",
+            "meaning" : "To cut a piece of wood in order to make it thinner."
         },
         {
-            "term" :  "Rough",
-            "meaning" :  "A term used to describe lumber that has not been surfaced (smoothed) on its faces or edges."
+            "term" : "Rough",
+            "meaning" : "A term used to describe lumber that has not been surfaced (smoothed) on its faces or edges."
         },
         {
-            "term" :  "Rip",
-            "meaning" :  "To cut with the grain."
+            "term" : "Rip",
+            "meaning" : "To cut with the grain."
         },
         {
-            "term" :  "Sheet",
-            "meaning" :  "A man-made sheet material, like plywood, melamine, or MDF."
+            "term" : "Sheet",
+            "meaning" : "A man-made sheet material, like plywood, melamine, or MDF."
         },
         {
-            "term" :  "Sled",
-            "meaning" :  "A carrier consisting of a base and fence for controlling a workpiece during a cutting operation, typically guided in some way (by runners or an external, stationary fence)."
+            "term" : "Sled",
+            "meaning" : "A carrier consisting of a base and fence for controlling a workpiece during a cutting operation, typically guided in some way (by runners or an external, stationary fence)."
         },
         {
-            "term" :  "Special Setup",
-            "meaning" :  "A machine operation that exposes the operator to greater than average risk; a special setup requires instructor or aide approval prior to operating the machine."
+            "term" : "Special Setup",
+            "meaning" : "A machine operation that exposes the operator to greater than average risk; a special setup requires instructor or aide approval prior to operating the machine."
         },
         {
-            "term" :  "Stock",
-            "meaning" :  "The piece being worked (same as Workpiece)."
+            "term" : "Stock",
+            "meaning" : "The piece being worked (same as Workpiece)."
         },
         {
-            "term" :  "Tearout",
-            "meaning" :  "Torn or damaged fibers, typically caused by a blade or bit exiting the workpiece."
+            "term" : "Tearout",
+            "meaning" : "Torn or damaged fibers, typically caused by a blade or bit exiting the workpiece."
         },
         {
-            "term" :  "Track",
-            "meaning" :  "On a belt sander, to adjust the belt to run true on the machine and not off to one side."
+            "term" : "Track",
+            "meaning" : "On a belt sander, to adjust the belt to run true on the machine and not off to one side."
         },
         {
-            "term" :  "Trigger lock",
-            "meaning" :  "The button on some hand-held power tools that locks the trigger in the ON position."
+            "term" : "Trigger lock",
+            "meaning" : "The button on some hand-held power tools that locks the trigger in the ON position."
         },
         {
-            "term" :  "V-block",
-            "meaning" :  "A block with a V-shaped channel along its length."
+            "term" : "V-block",
+            "meaning" : "A block with a V-shaped channel along its length."
         },
         {
-            "term" :  "Warp",
-            "meaning" :  "A lumber defect describing stock that is not flat; the four types of warp are cup, bow, crook, and twist."
+            "term" : "Warp",
+            "meaning" : "A lumber defect describing stock that is not flat; the four types of warp are cup, bow, crook, and twist."
         },
         {
-            "term" :  "Workpiece",
-            "meaning" :  "The piece being worked (same as Stock)"
+            "term" : "Workpiece",
+            "meaning" : "The piece being worked (same as Stock)"
         }
     ]
 }
