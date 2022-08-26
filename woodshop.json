@@ -60,9 +60,66 @@
                 {
                     "image" :  "small bench large",
                     "pageText" : [
+                    ]
+                },
+                {
+                    "image" :  "small bench large",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "image" :  "small bench large",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "image" :  "small bench large",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "image" :  "small bench large",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "image" :  "small bench large",
+                    "pageText" : [
+                    ]
+                },
+                {
+                    "image" : "SB6. Rail Hole Location",
+                    "pageText" : [
                         {
-                            "bullet" :  "false",
-                            "text" :  "Praesent mattis facilisis lorem, sed porttitor lacus convallis quis. Nunc tristique a diam non aliquam. Maecenas tortor arcu, posuere ac orci at, dignissim sagittis erat. Maecenas ut arcu molestie, laoreet felis vel, pretium dui. Praesent tincidunt lacus dignissim, ultricies dui quis, mattis neque. Nunc egestas neque at est suscipit vestibulum. Donec non eros sit amet metus ultrices ultricies eu ac odio. Phasellus odio tortor, molestie at laoreet ac, imperdiet eu neque. Praesent convallis est ipsum, vel malesuada libero tempus id. Pellentesque quis mollis mi. Phasellus efficitur fermentum lacus. Nam ornare, ligula quis sagittis ultrices, lectus purus posuere nunc, ut tempor ligula dolor porttitor sem.\n\nSuspendisse sodales vulputate ligula, non consectetur magna elementum et. Cras laoreet eget massa sit amet dictum. Curabitur interdum ullamcorper ligula ac congue. Suspendisse posuere orci eu leo ultrices euismod. Nullam in euismod nulla, non pharetra arcu. Praesent cursus ipsum a justo malesuada ultricies. In libero lectus, tempor vulputate purus sit amet, hendrerit consequat velit. Etiam porta tincidunt nibh. Curabitur ornare condimentum mollis. Nam mi leo, vehicula sed mollis dictum, venenatis vitae diam. Sed congue, ligula eget porta porta, lacus enim maximus tortor, sed porttitor orci lectus aliquet enim. Curabitur blandit, eros non condimentum cursus, metus urna lobortis tellus, commodo porttitor enim risus at erat."
+                            "bullet" :  "2.",
+                            "text" : "Layout the 3 drill hole locations on each shelf rail."
+                        }
+                    ]
+                },
+                {
+                    "image" : "SB7. Drill Hole location for 2 blocks",
+                    "pageText" : [
+                        {
+                            "bullet" :  "3.",
+                            "text" : "Layout the 4 drill holes on each block."
+                        }
+                    ]
+                },
+                {
+                    "image" : "SB7. Drill Hole location for 2 blocks",
+                    "pageText" : [
+                        {
+                            "bullet" : "4.",
+                            "text" : ""
+                        }
+                    ]
+                },
+                {
+                    "image" : "SB7. Drill Hole location for 2 blocks",
+                    "pageText" : [
+                        {
+                            "bullet" : "5.",
+                            "text" : ""
                         }
                     ]
                 },
