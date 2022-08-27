@@ -65,126 +65,38 @@
                 {
                     "pageHeader"  :  "Step 1",
                     "image"  :  "SB1. End Layout",
-                    "pageText" : [
-                    ]
                 },
                 {
                     "pageHeader"  :  "Step 2",
                     "image"  :  "SB2. Location for (3) Shelf Holes",
-                    "pageText" : [
-                    ]
                 },
                 {
                     "pageHeader"  :  "Step 3",
                     "image"  :  "SB3. Side View showing Hidden locations",
-                    "pageText" : [
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 4a",
-                    "image"  :  "SB4a. Bench Top (Elongated Hole Layout)",
-                    "pageText" : [
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 4b",
-                    "image"  :  "SB4b. Bench Top (Biscuit Layout)",
-                    "pageText" : [
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 5",
-                    "image"  :  "SB5. Bench Top (Chamfer Layout)",
-                    "pageText" : [
-                        {
-                            "bullet"  :  "2.",
-                            "text"  :  "Layout the 3 drill hole locations on each shelf rail."
-                        }
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 6",
-                    "image"  :  "SB6. Rail Hole Location",
-                    "pageText" : [
-                        {
-                            "bullet"  :  "3.",
-                            "text"  :  "Layout the 4 drill holes on each block."
-                        }
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 7",
-                    "image"  :  "SB7. Drill Hole location for 2 blocks",
-                    "pageText" : [
-                        {
-                            "bullet"  :  "4.",
-                            "text"  :  ""
-                        }
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 8",
-                    "image"  :  "SB8. Bench Top (Bottom Layout)",
-                    "pageText" : [
-                        {
-                            "bullet"  :  "5.",
-                            "text"  :  ""
-                        }
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 1",
-                    "image"  :  "SB1. End Layout",
-                    "pageText" : [
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 2",
-                    "image"  :  "SB2. Location for (3) Shelf Holes",
-                    "pageText" : [
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 3",
-                    "image"  :  "SB3. Side View showing Hidden locations",
-                    "pageText" : [
-                    ]
                 },
                 {
                     "pageHeader"  :  "Step 4",
                     "image"  :  "SB4a. Bench Top (Elongated Hole Layout)",
-                    "pageText" : [
-                    ]
                 },
                 {
                     "pageHeader"  :  "Step 4a",
                     "image"  :  "SB4b. Bench Top (Biscuit Layout)",
-                    "pageText" : [
-                    ]
                 },
                 {
                     "pageHeader"  :  "Step 5",
                     "image"  :  "SB5. Bench Top (Chamfer Layout)",
-                    "pageText" : [
-                    ]
                 },
                 {
                     "pageHeader"  :  "Step 6",
                     "image"  :  "SB6. Rail Hole Location",
-                    "pageText" : [
-                    ]
                 },
                 {
                     "pageHeader"  :  "Step 7",
                     "image"  :  "SB7. Drill Hole location for 2 blocks",
-                    "pageText" : [
-                    ]
                 },
                 {
                     "pageHeader"  :  "Step 8",
                     "image"  :  "SB8. Bench Top (Bottom Layout)",
-                    "pageText" : [
-                    ]
                 }
             ]
         },
