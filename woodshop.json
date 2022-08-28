@@ -61,20 +61,15 @@
                     "pageHeader"  :  "Overview",
                     "image"  :  "small bench large",
                     "pageText" : [
-                    ]
-                },
-                {
-                    "pageHeader"  :  "Step 1",
-                    "image"  :  "SB1. End Layout",
-                    "pageText" : [
                         {
+                            "bullet"  :  "false",
                             "text"  :  "This step stool is a great woodworking project that doesn't take many tools and is a great way to build upon your skills used during the Folding Stool project."
                         }
                     ]
                 },
                 {
-                    "pageHeader"  :  "Step 2",
-                    "image"  :  "SB2. Location for (3) Shelf Holes",
+                    "pageHeader"  :  "Step 1",
+                    "image"  :  "SB1. End Layout",
                     "pageText" : [
                         {
                             "bullet"  :  "1",
@@ -83,8 +78,8 @@
                     ]
                 },
                 {
-                    "pageHeader"  :  "Step 3",
-                    "image"  :  "SB3. Side View showing Hidden locations",
+                    "pageHeader"  :  "Step 2",
+                    "image"  :  "SB2. Location for (3) Shelf Holes",
                     "pageText" : [
                         {
                             "bullet"  :  "2",
@@ -93,8 +88,8 @@
                     ]
                 },
                 {
-                    "pageHeader"  :  "Step 4a",
-                    "image"  :  "SB4a. Bench Top (Elongated Hole Layout)",
+                    "pageHeader"  :  "Step 3",
+                    "image"  :  "SB3. Side View showing Hidden locations",
                     "pageText" : [
                         {
                             "bullet"  :  "3",
@@ -103,11 +98,21 @@
                     ]
                 },
                 {
+                    "pageHeader"  :  "Step 4a",
+                    "image"  :  "SB4a. Bench Top (Elongated Hole Layout)",
+                    "pageText" : [
+                        {
+                            "bullet"  :  "4a",
+                            "text"  :  ""
+                        }
+                    ]
+                },
+                {
                     "pageHeader"  :  "Step 4b",
                     "image"  :  "SB4b. Bench Top (Biscuit Layout)",
                     "pageText" : [
                         {
-                            "bullet"  :  "4",
+                            "bullet"  :  "4b",
                             "text"  :  ""
                         }
                     ]
