@@ -943,6 +943,34 @@
         {
             "term"  :  "Workpiece",
             "meaning"  :  "The piece being worked (same as Stock)"
+        },
+        {
+            "term"  :  "Band Saw",
+            "meaning"  :  "A power saw using a continuous-loop blade powered by two or three wheels."
+        },
+        {
+            "term"  :  "Bench Grinder",
+            "meaning"  :  "Motor-driven wheels ranging from abrasive to buffing cloth that perform a variety of sharpening, honing, cleaning and polishing jobs on cutting tools and other meta."
+        },
+        {
+            "term"  :  "Biscuit",
+            "meaning"  :  "A small wafer of wood that is inserted and glued to an edge groove between two pieces of wood to be joined."
+        },
+        {
+            "term"  :  "Biscuit Joiner",
+            "meaning"  :  "A power tool that cuts the hole into which a biscuit is inserted."
+        },
+        {
+            "term"  :  "Bit",
+            "meaning"  :  "A boring tools of varying diameters used with an electric drill or brace."
+        },
+        {
+            "term"  :  "Board Foot",
+            "meaning"  :  "A measurement based on 1″ x 1′ x 1′ or 144 cubic inches of lumber before surfacing (abbrev. “bf”)."
+        },
+        {
+            "term"  :  "Burr",
+            "meaning"  :  "A wire-like edge formed on a blade as a result of sharpening."
         }
     ]
 }
