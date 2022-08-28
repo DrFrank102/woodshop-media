@@ -9,7 +9,6 @@
                 {
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "The folding stools has the same features as other stools, except that they can be folded. Because of that, they are very practical; since they are portable and when folded they take very little space. They are suitable for use at home, in the yard, during the camping, fishing and picnic, or for some similar purpose in the nature. Folding stool can also be used as a stand for flowers or as a step stool. Their purpose is not to be comfortable, but rather a quick solution for sitting during dealing with some work."
                         }
                     ]
@@ -19,15 +18,15 @@
                     "image"  :  "folding stool leg layout",
                     "pageText" : [
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "Select the following premilled stock\n(1) 40\" board\n(3) 27\" boards"
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "Measure and layout the (4) legs on the 40\" premilled board."
                         },
                         {
-                            "bullet"  :  "3.",
+                            "bullet"  :  "3",
                             "text"  :  "Proceed to the table saw and rip and crosscut the 40\" premilled board according to the layout."
                         }
                     ]
@@ -37,15 +36,15 @@
                     "image"  :  "folding stool leg layout",
                     "pageText" : [
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "Select the following premilled stock\n(1) 40\" board\n(3) 27\" boards"
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "Measure and layout the (4) legs on the 40\" premilled board."
                         },
                         {
-                            "bullet"  :  "3.",
+                            "bullet"  :  "3",
                             "text"  :  "Proceed to the table saw and rip and crosscut the 40\" premilled board according to the layout."
                         }
                     ]
@@ -62,7 +61,7 @@
                     "image"  :  "small bench large",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
+                            "bullet"  :  "False",
                             "text"  :  "This step stool is a great woodworking project that doesn't take many tools and is a great way to build upon your skills used during the Folding Stool project."
                         }
                     ]
@@ -263,59 +262,59 @@
                             "text"  :  "Crosscutting is the operation used to cut stock to a desired length. The operator holds the stock in place against the fence and pulls the blade across the stock to make the cut. Refer to the following instructions."
                         },
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "Inspect stock for defects and foreign material that may fly loose during cutting."
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "Clear cutting table of any objects that may enter blade travel path."
                         },
                         {
-                            "bullet"  :  "3.",
+                            "bullet"  :  "3",
                             "text"  :  "Inspect saw to ensure guards are in place and that blade is secure and in good condition."
                         },
                         {
-                            "bullet"  :  "4.",
+                            "bullet"  :  "4",
                             "text"  :  "Make sure the saw travels back and forth freely."
                         },
                         {
-                            "bullet"  :  "5.",
+                            "bullet"  :  "5",
                             "text"  :  "Set blade height so that it cuts no more than 1/16 inch below surface of cutting table."
                         },
                         {
-                            "bullet"  :  "6.",
+                            "bullet"  :  "6",
                             "text"  :  "Set miter position indicator to desired angle and secure clamp. You should check the miter angle by cutting and measuring a scrap piece."
                         },
                         {
-                            "bullet"  :  "7.",
+                            "bullet"  :  "7",
                             "text"  :  "Measure stock and mark the cutting point."
                         },
                         {
-                            "bullet"  :  "8.",
+                            "bullet"  :  "8",
                             "text"  :  "Make sure saw is in it's rearward position."
                         },
                         {
-                            "bullet"  :  "9.",
+                            "bullet"  :  "9",
                             "text"  :  "Start saw and let it reach its maximum speed before cutting."
                         },
                         {
-                            "bullet"  :  "10.",
+                            "bullet"  :  "10",
                             "text"  :  "Hold stock firmly against fence making sure that its laying flat on the table."
                         },
                         {
-                            "bullet"  :  "11.",
+                            "bullet"  :  "11",
                             "text"  :  "Make sure arms are not crossed in front of saw."
                         },
                         {
-                            "bullet"  :  "12.",
+                            "bullet"  :  "12",
                             "text"  :  "Pull the saw forward to make the cut."
                         },
                         {
-                            "bullet"  :  "13.",
+                            "bullet"  :  "13",
                             "text"  :  "Push the saw rearward to its stating position."
                         },
                         {
-                            "bullet"  :  "14.",
+                            "bullet"  :  "14",
                             "text"  :  "Turn off the saw and wait for the blade to stop before removing stock."
                         }
                     ]
@@ -521,7 +520,7 @@
                             "text"  :  "A thickness planer consists of three main elements"
                         },
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "Cutterhead"
                         },
                         {
@@ -529,7 +528,7 @@
                             "text"  :  "\tcontains the cutting knives"
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "Two sets of rollers "
                         },
                         {
@@ -537,7 +536,7 @@
                             "text"  :  "\tthese draw the board through the machine"
                         },
                         {
-                            "bullet"  :  "3.",
+                            "bullet"  :  "3",
                             "text"  :  "Infeed Table"
                         },
                         {
@@ -561,39 +560,39 @@
                     "pageHeader"  :  "Components",
                     "pageText" : [
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "Blade."
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "Throat Guard."
                         },
                         {
-                            "bullet"  :  "3.",
+                            "bullet"  :  "3",
                             "text"  :  "Miter Gauge."
                         },
                         {
-                            "bullet"  :  "4.",
+                            "bullet"  :  "4",
                             "text"  :  "Outfeed Table."
                         },
                         {
-                            "bullet"  :  "5.",
+                            "bullet"  :  "5",
                             "text"  :  "Blade Up/Down Handle."
                         },
                         {
-                            "bullet"  :  "6.",
+                            "bullet"  :  "6",
                             "text"  :  "Power Switch."
                         },
                         {
-                            "bullet"  :  "7.",
+                            "bullet"  :  "7",
                             "text"  :  "Fence."
                         },
                         {
-                            "bullet"  :  "8.",
+                            "bullet"  :  "8",
                             "text"  :  "Fence Lock."
                         },
                         {
-                            "bullet"  :  "9.",
+                            "bullet"  :  "9",
                             "text"  :  "Miter Gauge Slot."
                         }
                     ]
@@ -603,67 +602,67 @@
                     "image"  :  "table saw ripping",
                     "pageText" : [
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "Always use the saw guard, riving knife or splitter (if equipped), and anti-kickback device.  If a splitter is available, make sure it is aligned with the blade before being used."
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "Before making cuts, align and lock the rip fence in position.  When possible position the rip fence to the right of the saw blade."
                         },
                         {
-                            "bullet"  :  "3.",
+                            "bullet"  :  "3",
                             "text"  :  "If the work piece does not have  a straight edge, fasten an auxiliary board to the top of the work piece to provide a straight edge for the first cut."
                         },
                         {
-                            "bullet"  :  "4.",
+                            "bullet"  :  "4",
                             "text"  :  "Set the rip fence for desired width of cut using the scale on the front rail or, for more accurate cuts, measure the distance between the blade teeth and the fence."
                         },
                         {
-                            "bullet"  :  "5.",
+                            "bullet"  :  "5",
                             "text"  :  "Use the left hand to hold the board against the fence and table."
                         },
                         {
-                            "bullet"  :  "6.",
+                            "bullet"  :  "6",
                             "text"  :  "Use the right hand to push the material through the saw."
                         },
                         {
-                            "bullet"  :  "7.",
+                            "bullet"  :  "7",
                             "text"  :  "When the stock is less than 4 inches in width, use a pushstick to push the trailing end through the saw."
                         },
                         {
-                            "bullet"  :  "8.",
+                            "bullet"  :  "8",
                             "text"  :  "Never allow the hands to come closer than 12 inches to the saw blade."
                         },
                         {
-                            "bullet"  :  "9.",
+                            "bullet"  :  "9",
                             "text"  :  "Position the right hand so it is NOT in direct line with the saw blade."
                         },
                         {
-                            "bullet"  :  "10.",
+                            "bullet"  :  "10",
                             "text"  :  "Remove the hand holding the stock down as it approaches the saw blade guard.  auxiliary fence."
                         },
                         {
-                            "bullet"  :  "11.",
+                            "bullet"  :  "11",
                             "text"  :  "Always push the work piece completely past the blade at the end of a cut to reduce the possibility of kickback."
                         },
                         {
-                            "bullet"  :  "12.",
+                            "bullet"  :  "12",
                             "text"  :  "When ripping long boards use a support at the front of the table or an off-bearer to support the cut stock  as it comes through the saw.  The off-bearer never pulls the stock, he/she only supports and move with the stock as it comes through the saw."
                         },
                         {
-                            "bullet"  :  "13.",
+                            "bullet"  :  "13",
                             "text"  :  "For materials shorter than 12 inches or narrower than 4 inches always use a push stick or push block to push material between the fence and the saw blade."
                         },
                         {
-                            "bullet"  :  "14.",
+                            "bullet"  :  "14",
                             "text"  :  "Never attempt to set the rip fence when the carriage extends beyond the end of the front rail.Make sure the correct blade is used for ripping cuts.  "
                         },
                         {
-                            "bullet"  :  "15.",
+                            "bullet"  :  "15",
                             "text"  :  "Make sure the correct blade is used for ripping cuts."
                         },
                         {
-                            "bullet"  :  "16.",
+                            "bullet"  :  "16",
                             "text"  :  "If the lumber is warped, turn the curved side down when ripping."
                         }
                     ]
@@ -673,39 +672,39 @@
                     "image"  :  "table saw crosscutting",
                     "pageText" : [
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "Make sure the saw guard and splitter are in place when crosscutting."
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "Always use the miter gauge when crosscutting.  Be sure the miter head is set at the proper angle for the desired cut and securely clamped."
                         },
                         {
-                            "bullet"  :  "3.",
+                            "bullet"  :  "3",
                             "text"  :  "Most workers prefer to use the left table slot for the miter gauge when crosscutting."
                         },
                         {
-                            "bullet"  :  "4.",
+                            "bullet"  :  "4",
                             "text"  :  "Hold the stock against the miter head with the left hand and use the right hand to advance the miter gauge and material through the cut."
                         },
                         {
-                            "bullet"  :  "5.",
+                            "bullet"  :  "5",
                             "text"  :  "Use the right table slot for making bevel or chamfer cuts.  The right table slot is used for this operation so the blade will tilt away from the operator’s hands and the miter gauge."
                         },
                         {
-                            "bullet"  :  "6.",
+                            "bullet"  :  "6",
                             "text"  :  "Always hold the material firmly against the miter head to prevent vibration and binding when the cut is made."
                         },
                         {
-                            "bullet"  :  "7.",
+                            "bullet"  :  "7",
                             "text"  :  "To improve the effectiveness of the miter head, some workers mount an auxiliary extension to the miter head.  This extension should not extend beyond the left edge of the saw table."
                         },
                         {
-                            "bullet"  :  "8.",
+                            "bullet"  :  "8",
                             "text"  :  "Provide support for any material which extends beyond the edge(s) of the saw table."
                         },
                         {
-                            "bullet"  :  "9.",
+                            "bullet"  :  "9",
                             "text"  :  "The miter head should be used when making cuts from 90 degrees to 45 degrees.  The miter head should be adjusted relative to the slot in the saw table.  If needed, change the position of the pointer and stops on the miter head gauge to accurately read the degrees for miter cuts."
                         }
                     ]
@@ -715,19 +714,19 @@
                     "image"  :  "table saw bevel cut",
                     "pageText" : [
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "The saw guard, riving knife/splitter (if available) and anti-kickback device should be in place when making bevel and miter cuts."
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "When beveling or making compound miter cuts always use the fence or the miter head on the opposite side from which the blade is tilted.  This will maximize the distance the hands will be from the blade and help avoid binding between the saw blade and the table top."
                         },
                         {
-                            "bullet"  :  "3.",
+                            "bullet"  :  "3",
                             "text"  :  "Bevel cutting is performed the same as described for ripping; miter cutting is performed the same as described for crosscutting."
                         },
                         {
-                            "bullet"  :  "4.",
+                            "bullet"  :  "4",
                             "text"  :  "Miter head hold down clamps may be used to hold stock in place for accurate miter cuts."
                         }
                     ]
@@ -737,11 +736,11 @@
                     "image"  :  "table saw dado",
                     "pageText" : [
                         {
-                            "bullet"  :  "1.",
+                            "bullet"  :  "1",
                             "text"  :  "Use a table insert which fits the dado cut being made.  Several wood table inserts, with varying slot widths, should be made and kept on hand for use with the dado blades."
                         },
                         {
-                            "bullet"  :  "2.",
+                            "bullet"  :  "2",
                             "text"  :  "Hold down blocks should be used for holding down stock while making groove cuts with the dado head."
                         }
                     ]
