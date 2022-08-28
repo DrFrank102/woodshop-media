@@ -58,6 +58,7 @@
             "image"  :  "small bench",
             "pages" : [
                 {
+                    "pageHeader"  :  "Overview",
                     "image"  :  "small bench large",
                     "pageText" : [
                     ]
@@ -66,30 +67,49 @@
                     "pageHeader"  :  "Step 1",
                     "image"  :  "SB1. End Layout",
                     "pageText" : [
+                        {
+                            "text"  :  "This step stool is a great woodworking project that doesn't take many tools and is a great way to build upon your skills used during the Folding Stool project."
+                        }
                     ]
                 },
                 {
                     "pageHeader"  :  "Step 2",
                     "image"  :  "SB2. Location for (3) Shelf Holes",
                     "pageText" : [
+                        {
+                            "bullet"  :  "1",
+                            "text"  :  "Layout 12 drill hole locations and 3” half circle at correct locations on both ends."
+                        }
                     ]
                 },
                 {
                     "pageHeader"  :  "Step 3",
                     "image"  :  "SB3. Side View showing Hidden locations",
                     "pageText" : [
+                        {
+                            "bullet"  :  "2",
+                            "text"  :  "Layout the 3 drill hole locations on each shelf rail."
+                        }
                     ]
                 },
                 {
                     "pageHeader"  :  "Step 4a",
                     "image"  :  "SB4a. Bench Top (Elongated Hole Layout)",
                     "pageText" : [
+                        {
+                            "bullet"  :  "3",
+                            "text"  :  "Layout the 4 drill holes on each block."
+                        }
                     ]
                 },
                 {
                     "pageHeader"  :  "Step 4b",
                     "image"  :  "SB4b. Bench Top (Biscuit Layout)",
                     "pageText" : [
+                        {
+                            "bullet"  :  "4",
+                            "text"  :  ""
+                        }
                     ]
                 },
                 {
@@ -97,8 +117,8 @@
                     "image"  :  "SB5. Bench Top (Chamfer Layout)",
                     "pageText" : [
                         {
-                            "bullet"  :  "2.",
-                            "text"  :  "Layout the 3 drill hole locations on each shelf rail."
+                            "bullet"  :  "5",
+                            "text"  :  ""
                         }
                     ]
                 },
@@ -107,8 +127,8 @@
                     "image"  :  "SB6. Rail Hole Location",
                     "pageText" : [
                         {
-                            "bullet"  :  "3.",
-                            "text"  :  "Layout the 4 drill holes on each block."
+                            "bullet"  :  "6",
+                            "text"  :  ""
                         }
                     ]
                 },
@@ -117,7 +137,7 @@
                     "image"  :  "SB7. Drill Hole location for 2 blocks",
                     "pageText" : [
                         {
-                            "bullet"  :  "4.",
+                            "bullet"  :  "7",
                             "text"  :  ""
                         }
                     ]
@@ -127,7 +147,7 @@
                     "image"  :  "SB8. Bench Top (Bottom Layout)",
                     "pageText" : [
                         {
-                            "bullet"  :  "5.",
+                            "bullet"  :  "8",
                             "text"  :  ""
                         }
                     ]
