@@ -61,7 +61,6 @@
                     "image"  :  "small bench large",
                     "pageText" : [
                         {
-                            "bullet"  :  "False",
                             "text"  :  "This step stool is a great woodworking project that doesn't take many tools and is a great way to build upon your skills used during the Folding Stool project."
                         }
                     ]
@@ -167,7 +166,6 @@
                     "image"  :  "coffee table large",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin auctor aliquet arcu, et ultricies diam mattis et. Nam quis sapien ultrices, semper dui vel, euismod eros. Suspendisse dapibus enim sed commodo luctus. Vestibulum mollis arcu sapien, sed volutpat quam gravida sed. Proin ligula odio, finibus nec leo in, finibus mollis ex. Ut ac vulputate arcu. Pellentesque vitae quam vel felis dapibus interdum quis eu lectus. Morbi varius risus at justo commodo varius. Mauris luctus congue libero in porta. Suspendisse potenti. Praesent nec eros aliquam, laoreet sem a, sagittis odio. Suspendisse vitae risus at neque ultrices dapibus. Etiam non lobortis libero.\n\nPraesent ut justo fermentum, feugiat nisl eget, luctus nunc. In risus sapien, vestibulum eu dui in, blandit molestie erat. Aliquam erat volutpat. Etiam urna felis, pulvinar id tellus vitae, vestibulum commodo quam. Nullam in ante vel quam ultricies vehicula. Mauris vel ullamcorper nisi, non fermentum sapien. Vivamus id pharetra tortor, sit amet consectetur metus. Pellentesque ut mi consectetur, varius risus a, lobortis nisi. Fusce elementum viverra purus, ut tincidunt nisi. Duis vel neque fringilla, eleifend metus quis, faucibus nunc."
                         }
                     ]
@@ -183,7 +181,6 @@
                     "image"  :  "end table large",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Morbi congue facilisis sodales. Cras nec magna at quam accumsan volutpat non sit amet tellus. Praesent auctor ac ante id ultricies. Aenean odio sem, tincidunt ut porttitor ac, sagittis id ipsum. Integer tincidunt felis a urna commodo imperdiet. Vivamus erat nibh, convallis at egestas et, imperdiet suscipit sapien. Nullam aliquet convallis neque, ac molestie nisi viverra ut. Nulla facilisi. Nullam pulvinar arcu id elementum pellentesque.\n\nIn hac habitasse platea dictumst. Quisque dapibus velit non nisi gravida blandit. Phasellus dui tortor, fringilla nec posuere at, aliquam sed mi. Donec cursus ornare diam, vitae sodales risus ultricies vel. Nulla et sapien aliquet ligula dapibus vulputate. Nunc lobortis libero vel metus vestibulum porta. Duis efficitur finibus erat nec semper. Cras nec dignissim lectus. Vivamus dignissim at erat laoreet blandit. Praesent porttitor fringilla turpis quis iaculis. Maecenas lorem diam, imperdiet sed mollis eget, suscipit id massa. Curabitur porttitor odio sed mauris fringilla dictum. Cras rhoncus enim velit, et placerat mi finibus in. Nullam sollicitudin, nisi ut iaculis porttitor, velit lectus commodo mauris, porta rutrum arcu magna aliquet lorem. Nam quis lectus ac odio tincidunt efficitur."
                         }
                     ]
@@ -199,7 +196,6 @@
                     "image"  :  "adirondack chair large",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Aenean laoreet vel sapien vel laoreet. Pellentesque elit odio, faucibus convallis efficitur a, bibendum a erat. Proin et lorem risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean at odio tortor. Vestibulum vitae imperdiet lectus, vel posuere ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\n\n Morbi pharetra, mi nec vehicula sollicitudin, ante tellus feugiat erat, nec eleifend dui nisl non nunc. Quisque lacinia sollicitudin pellentesque. Donec id est sed justo commodo tempor eu et leo. Sed feugiat quam nec mauris rhoncus sagittis. Suspendisse posuere lacus vitae arcu tincidunt, quis rhoncus tellus scelerisque. Cras mattis fermentum risus, eget volutpat massa ullamcorper ut. Sed pharetra iaculis dignissim. Quisque ullamcorper pretium urna, at sagittis felis luctus nec. Fusce venenatis tortor ut leo dapibus rhoncus vitae ac est. Nunc felis dui, feugiat suscipit mollis eu, tempus ut turpis. Ut ligula eros, rutrum sed felis vel, malesuada consectetur justo. Suspendisse non nunc augue. Proin non porttitor neque, at convallis nibh."
                         }
                     ]
@@ -215,7 +211,6 @@
                     "image"  :  "mission night stand large",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Morbi congue facilisis sodales. Cras nec magna at quam accumsan volutpat non sit amet tellus. Praesent auctor ac ante id ultricies. Aenean odio sem, tincidunt ut porttitor ac, sagittis id ipsum. Integer tincidunt felis a urna commodo imperdiet. Vivamus erat nibh, convallis at egestas et, imperdiet suscipit sapien. Nullam aliquet convallis neque, ac molestie nisi viverra ut. Nulla facilisi. Nullam pulvinar arcu id elementum pellentesque.\n\nIn hac habitasse platea dictumst. Quisque dapibus velit non nisi gravida blandit. Phasellus dui tortor, fringilla nec posuere at, aliquam sed mi. Donec cursus ornare diam, vitae sodales risus ultricies vel. Nulla et sapien aliquet ligula dapibus vulputate. Nunc lobortis libero vel metus vestibulum porta. Duis efficitur finibus erat nec semper. Cras nec dignissim lectus. Vivamus dignissim at erat laoreet blandit. Praesent porttitor fringilla turpis quis iaculis. Maecenas lorem diam, imperdiet sed mollis eget, suscipit id massa. Curabitur porttitor odio sed mauris fringilla dictum. Cras rhoncus enim velit, et placerat mi finibus in. Nullam sollicitudin, nisi ut iaculis porttitor, velit lectus commodo mauris, porta rutrum arcu magna aliquet lorem. Nam quis lectus ac odio tincidunt efficitur."
                         }
                     ]
@@ -231,7 +226,6 @@
                     "image"  :  "independant project large",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Curabitur blandit ex sed efficitur auctor. Suspendisse dui purus, viverra quis commodo eu, commodo ultricies nisi. In hac habitasse platea dictumst. Nam fermentum at lectus non auctor. Quisque molestie congue turpis, ut volutpat mi rhoncus sed. Pellentesque tristique ligula ligula, sed luctus turpis laoreet in. Vivamus eget ultricies velit. Aliquam in egestas turpis, sed ornare libero. Nulla cursus in neque sed tempor. Pellentesque pellentesque dapibus dictum. Nunc cursus ultricies eleifend. Donec ullamcorper molestie sapien, ac interdum turpis lobortis sit amet. Sed ut felis ac risus tempor efficitur.\n\nUt id ex placerat, lacinia justo in, luctus enim. Pellentesque ac nibh ex. Vestibulum iaculis, elit vel pharetra facilisis, elit leo tempus libero, et bibendum arcu arcu non ex. In odio tortor, commodo at egestas nec, fringilla sed diam. Cras vitae eleifend arcu, sit amet placerat odio. Maecenas arcu mi, efficitur vestibulum ultrices ultricies, tincidunt a velit. Mauris varius, ex a volutpat ornare, risus ligula cursus ex, eget dignissim justo dui condimentum felis. Nunc vitae massa in nibh finibus gravida nec in eros. Vivamus varius ante commodo justo hendrerit suscipit. Mauris lacinia facilisis enim, ac hendrerit lorem egestas nec. Nulla ipsum metus, rhoncus vitae velit sit amet, luctus feugiat metus. Aliquam auctor elit lorem, eu sagittis augue rhoncus id. Maecenas id justo vel risus interdum laoreet vitae in ex. Sed eleifend suscipit ligula."
                         }
                     ]
@@ -249,7 +243,6 @@
                     "pageHeader"  :  "Overview",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "The radial arm saw is a multi-purpose tool. It not only crosscuts and rips lumber but it can also be configured for use as a jointer, drill, router, sander, and lathe. The saws primary function is crosscutting. It can make a variety of crosscuts including  straight, miter, bevel, dado, and rabbet cuts."
                         }
                     ]
@@ -258,7 +251,6 @@
                     "pageHeader"  :  "Crosscutting",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Crosscutting is the operation used to cut stock to a desired length. The operator holds the stock in place against the fence and pulls the blade across the stock to make the cut. Refer to the following instructions."
                         },
                         {
@@ -472,31 +464,24 @@
                     "pageHeader"  :  "Overview",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "The jointer does one important thing very well. It creates a perfectly flat surfaces, either on the face of a board, or on the edges."
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Jointers are designed to take rough-sawn clean new lumber (Eastern White Pine) and true (straighten/ flatten) one face,two edges at a time."
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "The name of this tool derives from its primary function to machine a uniform face  or edge for mating with another workpiece. Jointed edges may now  be joined together to create wider boards."
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Machining is performed with a high-speed  (3500 rpm) rotating cutter with  four knives which is called the cutterhead."
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "The stock is placed on the infeed table and pushed, with the aid of  pushblocks, over the cutterhead and onto the outfeed table. The fence is used to help guide the stock. The length of the cutterhead, which defines the size of a jointer(16”), indicates the widest board that can be surfaced."
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "When milling rough lumber, the jointer represents the second step in preparing the stock for your project (the first being the Radial Arm Saw). The jointer produces a  smooth flat face and straight edges.  The board then moves to the thickness planer and the tablesaw to be cut to final dimensions. "
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "The jointer’s primarily use (and only use at WHS) is for flattening the concave face of a board and straightening and squaring the edges of a board; however, in special circumstances, it may also be used for rabbeting, beveling and tapering."
                         }
                     ]
@@ -512,11 +497,9 @@
                     "pageHeader"  :  "Overview",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "A thickness planer is a woodworking machine to make boards a consistent thickness throughout their length. This is done by flattening the convex side of the board once the jointer has trimmed the concave face."
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "A thickness planer consists of three main elements"
                         },
                         {
@@ -524,7 +507,6 @@
                             "text"  :  "Cutterhead"
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "\tcontains the cutting knives"
                         },
                         {
@@ -532,7 +514,6 @@
                             "text"  :  "Two sets of rollers "
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "\tthese draw the board through the machine"
                         },
                         {
@@ -540,11 +521,9 @@
                             "text"  :  "Infeed Table"
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "\tthis is adjustable relative to the cutterhead to control the resultant thickness of the board"
                         },
                         {
-                            "bullet"  :  "false",
                             "text"  :  "Industrial thickness planers are capable of accepting very wide boards (in our case 24”) and removing large amounts of material in a single pass. These machines are driven by powerful motors and are designed to last a long time. "
                         }
                     ]
@@ -757,7 +736,6 @@
                     "image"  :  "sliding compound mitre saw large",
                     "pageText" : [
                         {
-                            "bullet"  :  "false",
                             "text"  :  "The Sliding Compound Miter Saw is a power tool used to make a quick, accurate cross cuts, miters, or bevels. These saws cut at a set miter angle. Some also can cut at both miter and beveled angle."
                         }
                     ]
