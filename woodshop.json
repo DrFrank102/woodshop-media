@@ -750,6 +750,7 @@
         },
         {
             "term"  :  "Bevel",
+            "image"  :  "face, edge, end and bevel",
             "meaning"  :  "An angled edge or end, where the entire surface of the edge or end is angled (different from a chamfer)"
         },
         {
@@ -791,10 +792,12 @@
         },
         {
             "term"  :  "Edge",
+            "image"  :  "face, edge, end and bevel",
             "meaning"  :  "The smaller pair of surfaces (relative to the face) on a board that exhibit long grain."
         },
         {
             "term"  :  "End",
+            "image"  :  "face, edge, end and bevel",
             "meaning"  :  "The pair of surfaces of a board that exhibits end grain."
         },
         {
@@ -803,6 +806,7 @@
         },
         {
             "term"  :  "Face",
+            "image"  :  "face, edge, end and bevel",
             "meaning"  :  "The largest pair of long-grain surfaces of a board."
         },
         {
@@ -1012,6 +1016,25 @@
             "term"  :  "Blind Dovetail Joint",
             "image"  :  "blind dovetail joint",
             "meaning"  :  "This corner joint offers all the strength of a dovetail, but the joinery is hidden inside the corner and only a narrow band of end grain shows. This joint is for the purist who demands strength, but doesn’t want to show off."
+        },
+        {
+            "term"  :  "Blind Mortise and Tenon",
+            "image"  :  "blind motrise and tenon",
+            "meaning"  :  "This is a strong, invisible joint for use in framework. One extra benefit is that the shoulder on the tenon hides any imperfection in the mortise cut. This joint can be used at the corners of frames and can be made to look more primitive by adding decorative and structural pegs"
+        },
+        {
+            "term"  :  "Box Joint",
+            "image"  :  "box joint",
+            "meaning"  :  "Another name for a fingerlap joint with straight, interlocking fingers"
+        },
+        {
+            "term"  :  "Bridle Joint",
+            "image"  :  "bridle joint",
+            "meaning"  :  "This joint offers great strength and protection against racking. It also has improved gluing surface in a cross-grain application. It’s most easily produced on a table saw or band saw. "
+        },
+        {
+            "term"  :  "Butt Joint",
+            "meaning"  :  "A very basic woodworking joint. While still used extensively, this joint is weak and difficult to align during glue-up. It can be set up as end-grain-to-face-grain, end-grain-to-long-grain or long-grain-to-long-grain."
         }
     ]
 }
