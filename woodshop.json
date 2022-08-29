@@ -1035,6 +1035,125 @@
         {
             "term"  :  "Butt Joint",
             "meaning"  :  "A very basic woodworking joint. While still used extensively, this joint is weak and difficult to align during glue-up. It can be set up as end-grain-to-face-grain, end-grain-to-long-grain or long-grain-to-long-grain."
+        },
+        {
+            "term"  :  "Countersink",
+            "image"  :  "countersink",
+            "meaning"  :  "To cut a cone-shaped recess in a pilot or clearance hole that allows a flat-head screw to seat flush or below the surface; also, the hole itself."
+        },
+        {
+            "term"  :  "Cup",
+            "meaning"  :  "the action of a board to warp across its width, usually in the opposite direction of the rings."
+        },
+        {
+            "term"  :  "Dog",
+            "meaning"  :  "An object that holds a workpiece stationary by friction rather than by clamping (commonly referred to as “bench dogs”)."
+        },
+        {
+            "term"  :  "Dowel",
+            "meaning"  :  "A cylindrical length of wood used for making joints by inserting a length into two corresponding holes and gluing with clamp pressure."
+        },
+        {
+            "term"  :  "Doweled Joint",
+            "image"  :  "doweled joint",
+            "meaning"  :  "Dowels add strength and alignment benefits to what is normally considered a weak joint."
+        },
+        {
+            "term"  :  "Drill Press",
+            "meaning"  :  "A drill head and motor mounted on a vertical column aligned with an adjustable worktable mounted on the same column"
+        },
+        {
+            "term"  :  "Engineer's Square",
+            "meaning"  :  "A  precision metal square with a fixed blade for proving 90°."
+        },
+        {
+            "term"  :  "Epoxy",
+            "meaning"  :  "A  type of adhesive that requires a compound and a catalyst to from the adhesive."
+        },
+        {
+            "term"  :  "Forstner bit",
+            "meaning"  :  "A type of bit used to bore clean, flat-bottomed and generally larger holes."
+        },
+        {
+            "term"  :  "Groove Joint",
+            "image"  :  "groove joint",
+            "meaning"  :  "The groove joint can be used in many ways, but is shown here as a way to lock a thinner cabinet back or a drawer bottom. In each application, the groove captures the thinner piece in place without glue because the thin, solid-wood panel can expand and contract with changes in humidity."
+        },
+        {
+            "term"  :  "Hole Saw",
+            "meaning"  :  "A type of saw with teeth arranged around the bottom of a cylinder used for cutting larger holes"
+        },
+        {
+            "term"  :  "Joinery",
+            "meaning"  :  "Connecting pieces of wood together through a variety of means, including using glue and mechanical fasteners, though generally understood as the use of interlocking or corresponding wooden joints."
+        },
+        {
+            "term"  :  "Jointer",
+            "meaning"  :  "The usually-stationary shop machine that makes a uniform, square surface by removing thin layers of material until the whole board is square"
+        },
+        {
+            "term"  :  "Knot",
+            "meaning"  :  "In lumber, the portion of a branch or limb of a tree that appears on the edge or face of the piece."
+        },
+        {
+            "term"  :  "Miter Guage",
+            "meaning"  :  "A device that slides in a tabletop slot paralleling the blade of a table saw or band saw with a pivoting protractor head and fence to facilitate crosscutting at different angles."
+        },
+        {
+            "term"  :  "Nail Set",
+            "meaning"  :  "A steel punch-like rod that is used to position the head of a nail flush or below the surface of the wood."
+        },
+        {
+            "term"  :  "Orbital Sander",
+            "meaning"  :  "A type of finishing sander where the motor’s energy is converted to minute circles, which causes sandpaper to abrade a surface."
+        },
+        {
+            "term"  :  "Particle Board",
+            "meaning"  :  "Similar to Medium Density Fiberboard (MDF), this engineered product is made using waste wood and adhesive pressed under heat and pressure. The bits of wood used in particleboard are larger than the fine fiber in MDF, making the panel less consistent. Like MDF, particleboard is vulnerable to moisture."
+        },
+        {
+            "term"  :  "Pilot Hole",
+            "meaning"  :  "A small hole drilled in your work that is intended to guide a fastener. The hole will ensure the fastener is driven in the desired direction and clears some waste wood to prevent your work from splitting when the fastener is driven in place."
+        },
+        {
+            "term"  :  "Points Per Inch",
+            "meaning"  :  "A method by which saw blades are classified (abbrev. “ppi”), based on the number of tooth points in a 1″ span."
+        },
+        {
+            "term"  :  "Predrill",
+            "meaning"  :  "To drill a hole before driving a nail. This decreases the chance of splitting the wood."
+        },
+        {
+            "term"  :  "Radial Arm Saw",
+            "meaning"  :  "A power tool that consists of a motor and blade that are suspended above the table from an arm that pivots at the rear and upon which the motor slides."
+        },
+        {
+            "term"  :  "Rail",
+            "meaning"  :  "The horizontal member of any frame, such as a door, window or face frame."
+        },
+        {
+            "term"  :  "Rake",
+            "meaning"  :  "The angle of the cutting face of a saw blade tooth."
+        },
+        {
+            "term"  :  "Rip Fence",
+            "meaning"  :  "The movable guide on a table saw that’s parallel to the blade against which boards are referenced when making a rip cut."
+        },
+        {
+            "term"  :  "Rough Cut",
+            "meaning"  :  "To cut to an approximate length that is somewhat longer than an exact cut."
+        },
+        {
+            "term"  :  "Scribe",
+            "meaning"  :  "To transfer lines to a replacement member or pattern using dividers or a circle compass."
+        },
+        {
+            "term"  :  "Table Saw",
+            "meaning"  :  "A type of stationary arbor-driven circular saw that is set below a table upon which the workpiece is cut."
+        },
+        {
+            "term"  :  "Tenon",
+            "meaning"  :  "The rabbeted edge that is inserted into a matching recess, called a mortise."
         }
     ]
 }
