@@ -782,7 +782,7 @@
         },
         {
             "term"  :  "Dado",
-            "image"  :  "Dado, Groove, Rabbet",
+            "image"  :  "dado, groove, rabbet",
             "meaning"  :  "A groove running across the grain."
         },
         {
@@ -891,7 +891,7 @@
         },
         {
             "term"  :  "Rabbet",
-            "image"  :  "Dado, Groove, Rabbet",
+            "image"  :  "dado, groove, rabbet",
             "meaning"  :  "A stepped surface on the edge or end of a board."
         },
         {
@@ -1000,8 +1000,18 @@
         },
         {
             "term"  :  "Groove",
-            "image"  :  "Dado, Groove, Rabbet",
+            "image"  :  "dado, groove, rabbet",
             "meaning"  :  "A three-sided trench cut with the grain of a board."
+        },
+        {
+            "term"  :  "Biscuit Joint",
+            "image"  :  "biscuit joint",
+            "meaning"  :  "Biscuits help align the faces during glue-up, especially with a longer panel such as a tabletop."
+        },
+        {
+            "term"  :  "Blind Dovetail Joint",
+            "image"  :  "blind dovetail joint",
+            "meaning"  :  "This corner joint offers all the strength of a dovetail, but the joinery is hidden inside the corner and only a narrow band of end grain shows. This joint is for the purist who demands strength, but doesn’t want to show off."
         }
     ]
 }
