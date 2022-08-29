@@ -782,7 +782,7 @@
         },
         {
             "term"  :  "Dado",
-            "image" : "Dado, Groove, Rabbet",
+            "image"  :  "Dado, Groove, Rabbet",
             "meaning"  :  "A groove running across the grain."
         },
         {
@@ -891,6 +891,7 @@
         },
         {
             "term"  :  "Rabbet",
+            "image"  :  "Dado, Groove, Rabbet",
             "meaning"  :  "A stepped surface on the edge or end of a board."
         },
         {
@@ -972,6 +973,35 @@
         {
             "term"  :  "Burr",
             "meaning"  :  "A wire-like edge formed on a blade as a result of sharpening."
+        },
+        {
+            "term"  :  "Caulk",
+            "meaning"  :  "A plastic substance used to seal seams and leaks."
+        },
+        {
+            "term"  :  "Clamp",
+            "meaning"  :  "A device to hold work in process."
+        },
+        {
+            "term"  :  "CNC",
+            "meaning"  :  "“Computer numerical control” a device that processes a piece of material to specifications defined in a computer software."
+        },
+        {
+            "term"  :  "Combination Square",
+            "meaning"  :  "An all-metal, adjustable square that can measure 90° and 45° angles. It is perhaps the most-used (and most dropped) tool when marking out joints."
+        },
+        {
+            "term"  :  "Compound Miter",
+            "meaning"  :  "A cut where the blade path is not perpendicular to the wood’s end or edge and the blade tilt is not 90° to the face"
+        },
+        {
+            "term"  :  "Countersink",
+            "meaning"  :  "To cut a cone-shaped recess in a pilot or clearance hole that allows a flat-head screw to seat flush or below the surface; also, the hole itself."
+        },
+        {
+            "term"  :  "Groove",
+            "image"  :  "Dado, Groove, Rabbet",
+            "meaning"  :  "A three-sided trench cut with the grain of a board."
         }
     ]
 }
